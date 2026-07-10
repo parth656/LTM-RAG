@@ -1,0 +1,2738 @@
+DEEP REALTIME COMPANY DATASET FOR RAG
+Generated as of: 2026-07-10 11:41 IST
+Companies: LTM, Google, Amazon, Apollo Hospitals, Microsoft, Commvault
+Formats generated: PDF, DOCX, TXT
+Use note: This TXT is the best ingestion file for vector stores. Chunk delimiter is ---CHUNK---.
+
+SOURCE INDEX
+
+## LTM
+- LTM-WEB-001 | 2026-06-01 | LTM Investors | Annual Reports and Financial Information | LTM Investors | https://www.ltm.com/investors/annual-reports
+- LTM-WEB-002 | 2026 | LTM | Annual Report 2026 - LTM | https://www.ltm.com/annual-report-2026
+- LTM-WEB-003 | 2026-02-11 | LTM Press Release | LTIMindtree Introduces New Brand Identity as LTM | https://www.ltm.com/news-events/press-releases/2026/ltimindtree-introduces-new-brand-identity-and-positioning--ltm--
+- LTM-ENT-001 | 2026-07-07 | Internal Communications LTM | LTM Launches BlueVerse RightLogic to Help Enterprises Strengthen Cyber Resilience in the AI Era | enterprise-search-result
+
+## Google
+- GOO-WEB-001 | 2026-05-19 | Google The Keyword | Google I/O 2026: News and announcements | https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/
+- GOO-WEB-002 | 2026-05-20 | Google The Keyword | 100 things we announced at Google I/O 2026 | https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/
+
+## Amazon
+- AMZ-WEB-001 | 2026-07-09 | About Amazon | Company news - About Amazon | https://www.aboutamazon.com/news/company-news
+- AMZ-WEB-002 | 2026-04-20 | About Amazon | Amazon and Anthropic expand strategic collaboration | https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai
+- AMZ-WEB-003 | 2026-06-25 | CNBC | Amazon adds new funding, lifting India AI and cloud investment to $48 billion | https://www.cnbc.com/2026/06/25/amazon-investment-billion-ai-india.html
+- AMZ-WEB-004 | 2026-07-07 | CNBC | Amazon raising at least $25 billion in bond sale | https://www.cnbc.com/2026/07/07/amazon-bond-sale-ai-debt.html
+
+## Apollo Hospitals
+- APL-WEB-001 | 2026 | Apollo Hospitals | Press Release | Apollo Hospitals | https://www.apollohospitals.com/press-releases
+- APL-WEB-002 | 2026 | Apollo Hospitals | Digital Transformation and AI for Better Care | https://www.apollohospitals.com/digital-transformation-and-ai-better-care
+- APL-WEB-003 | 2026-04-29 | ET HealthWorld | Apollo Hospitals launches 400-bed smart hospital in Hyderabad | https://health.economictimes.indiatimes.com/news/hospitals/apollo-hospitals-launches-400-bed-smart-hospital-in-hyderabad-expands-national-network-to-76/130603271
+- APL-WEB-004 | 2026-07-09 | PR Newswire | Apollo Hospitals PR Newswire page | https://www.prnewswire.com/news/apollo-hospitals/
+
+## Microsoft
+- MSF-WEB-001 | 2026-07-06 | Microsoft | The Official Microsoft Blog | https://blogs.microsoft.com/
+- MSF-WEB-002 | 2026-07-02 | Microsoft Official Blog | Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence | https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/
+- MSF-WEB-003 | 2026-06-02 | Microsoft Inside Track | Microsoft Build 2026: Empowering our developers to adopt agentic AI at Microsoft | https://www.microsoft.com/insidetrack/blog/microsoft-build-2026-empowering-our-developers-to-adopt-agentic-ai-at-microsoft/
+- MSF-WEB-004 | 2026-06-02 | Windows Developer Blog | Build 2026: Furthering Windows as the trusted platform for development | https://blogs.windows.com/windowsdeveloper/2026/06/02/build-2026-furthering-windows-as-the-trusted-platform-for-development/
+
+## Commvault
+- CVLT-WEB-001 | 2026-07-09 | Commvault | News Releases - Commvault | https://ir.commvault.com/news-and-events/news-releases
+- CVLT-WEB-002 | 2026-07-06 | Commvault | Commvault Ranked #1 in Five of Six Use Cases in 2026 Gartner Critical Capabilities | https://ir.commvault.com/news-releases/news-release-details/commvault-ranked-1-five-six-use-cases-2026-gartnerr-critical
+- CVLT-WEB-003 | 2026-03-17 | Commvault | Commvault Hits the Ring to Take on Cyberattacks, Identity Theft, and AI-driven Threats | https://www.commvault.com/news/resops-faceoff-at-rsac-2026-conference
+- CVLT-WEB-004 | 2026-07-07 | Help Net Security | Commvault launches Minutes to Recovery AI-powered simulation | https://www.helpnetsecurity.com/2026/07/07/commvault-measures-cyber-recovery-readiness-with-ai-attack-simulations/
+
+---CHUNKS---
+---CHUNK---
+chunk_id: C0001
+company: LTM
+type: fact
+source_id: LTM-WEB-001
+date: 2026-06-01
+title: Annual Reports and Financial Information | LTM Investors
+publisher: LTM Investors
+url: https://www.ltm.com/investors/annual-reports
+text:
+LTM Investors lists FY 2026 annual report material, including Interactive Annual Report 2026, AGM Notice dated 1 June 2026, Integrated Annual Report 2025-26 PDF, Subsidiary Annual Report 2025-26, Annual Return Form MGT-7 FY2025-26, ESOP Disclosure FY2025-26, and CSR capital assets list FY2025-26.
+---CHUNK---
+chunk_id: C0002
+company: LTM
+type: fact
+source_id: LTM-WEB-001
+date: 2026-06-01
+title: Annual Reports and Financial Information | LTM Investors
+publisher: LTM Investors
+url: https://www.ltm.com/investors/annual-reports
+text:
+The LTM annual reports page presents annual reports, financial statements, investor updates, and corporate performance insights in one place.
+---CHUNK---
+chunk_id: C0003
+company: LTM
+type: normal_summary
+source_id: LTM-WEB-001
+date: 2026-06-01
+title: Annual Reports and Financial Information | LTM Investors
+publisher: LTM Investors
+url: https://www.ltm.com/investors/annual-reports
+text:
+LTM source summary: LTM Investors lists FY 2026 annual report material, including Interactive Annual Report 2026, AGM Notice dated 1 June 2026, Integrated Annual Report 2025-26 PDF, Subsidiary Annual Report 2025-26, Annual Return Form MGT-7 FY2025-26, ESOP Disclosure FY2025-26, and CSR capital assets list FY2025-26. The LTM annual reports page presents annual reports, financial statements, investor updates, and corporate performance insights in one place.
+---CHUNK---
+chunk_id: C0004
+company: LTM
+type: qa
+source_id: LTM-WEB-001
+date: 2026-06-01
+title: Annual Reports and Financial Information | LTM Investors
+publisher: LTM Investors
+url: https://www.ltm.com/investors/annual-reports
+text:
+Question: What happened in this source?
+Answer: LTM Investors lists FY 2026 annual report material, including Interactive Annual Report 2026, AGM Notice dated 1 June 2026, Integrated Annual Report 2025-26 PDF, Subsidiary Annual Report 2025-26, Annual Return Form MGT-7 FY2025-26, ESOP Disclosure FY2025-26, and CSR capital assets list FY2025-26. The LTM annual reports page presents annual reports, financial statements, investor updates, and corporate performance insights in one place.
+---CHUNK---
+chunk_id: C0005
+company: LTM
+type: qa
+source_id: LTM-WEB-001
+date: 2026-06-01
+title: Annual Reports and Financial Information | LTM Investors
+publisher: LTM Investors
+url: https://www.ltm.com/investors/annual-reports
+text:
+Question: Why is this useful for RAG?
+Answer: This source gives dated, source-backed facts about LTM. It should be retrieved when a user asks about LTM strategy, AI activity, partnerships, investments, recognition, products, or 2026 updates.
+---CHUNK---
+chunk_id: C0006
+company: LTM
+type: qa
+source_id: LTM-WEB-001
+date: 2026-06-01
+title: Annual Reports and Financial Information | LTM Investors
+publisher: LTM Investors
+url: https://www.ltm.com/investors/annual-reports
+text:
+Question: What should the chatbot cite?
+Answer: Use source_id LTM-WEB-001, title Annual Reports and Financial Information | LTM Investors, date 2026-06-01, publisher LTM Investors, and URL https://www.ltm.com/investors/annual-reports.
+---CHUNK---
+chunk_id: C0007
+company: LTM
+type: fact
+source_id: LTM-WEB-002
+date: 2026
+title: Annual Report 2026 - LTM
+publisher: LTM
+url: https://www.ltm.com/annual-report-2026
+text:
+LTM annual report content uses the theme "It is time to Outcreate" and says the company brings human insights and intelligent systems together.
+---CHUNK---
+chunk_id: C0008
+company: LTM
+type: fact
+source_id: LTM-WEB-002
+date: 2026
+title: Annual Report 2026 - LTM
+publisher: LTM
+url: https://www.ltm.com/annual-report-2026
+text:
+The annual report page describes LTM technology and domain expertise as converging to create new ways of working, productivity paradigms, and roads to value.
+---CHUNK---
+chunk_id: C0009
+company: LTM
+type: fact
+source_id: LTM-WEB-002
+date: 2026
+title: Annual Report 2026 - LTM
+publisher: LTM
+url: https://www.ltm.com/annual-report-2026
+text:
+The annual report page describes an agentic AI ecosystem for the enterprise of the future and AI-powered digital agents that blend AI efficiency with human-guided intelligence.
+---CHUNK---
+chunk_id: C0010
+company: LTM
+type: fact
+source_id: LTM-WEB-002
+date: 2026
+title: Annual Report 2026 - LTM
+publisher: LTM
+url: https://www.ltm.com/annual-report-2026
+text:
+The page lists May 2026 updates including an offer to acquire Randstad Tech & Consulting Services business in Europe and Australia, and a partnership with Uniphore to scale domain-specific AI.
+---CHUNK---
+chunk_id: C0011
+company: LTM
+type: fact
+source_id: LTM-WEB-002
+date: 2026
+title: Annual Report 2026 - LTM
+publisher: LTM
+url: https://www.ltm.com/annual-report-2026
+text:
+The page lists February 2026 content about the new brand identity and positioning as LTM, the Business Creativity Partner.
+---CHUNK---
+chunk_id: C0012
+company: LTM
+type: fact
+source_id: LTM-WEB-002
+date: 2026
+title: Annual Report 2026 - LTM
+publisher: LTM
+url: https://www.ltm.com/annual-report-2026
+text:
+The page lists November 2025 content about strengthening relationship with Microsoft to drive AI-powered transformation.
+---CHUNK---
+chunk_id: C0013
+company: LTM
+type: fact
+source_id: LTM-WEB-002
+date: 2026
+title: Annual Report 2026 - LTM
+publisher: LTM
+url: https://www.ltm.com/annual-report-2026
+text:
+The page includes case-study style outcome numbers, including 30% faster releases, 40% shorter test cycles, 3x device coverage, and 50% infrastructure savings for a streaming experience example.
+---CHUNK---
+chunk_id: C0014
+company: LTM
+type: fact
+source_id: LTM-WEB-002
+date: 2026
+title: Annual Report 2026 - LTM
+publisher: LTM
+url: https://www.ltm.com/annual-report-2026
+text:
+The page includes an omnichannel commerce example with conversions growing by 30-40% and engagement reaching 8.5M weekly.
+---CHUNK---
+chunk_id: C0015
+company: LTM
+type: fact
+source_id: LTM-WEB-002
+date: 2026
+title: Annual Report 2026 - LTM
+publisher: LTM
+url: https://www.ltm.com/annual-report-2026
+text:
+The page includes an instant payments example where processing speed was boosted by 91% and capacity scaled from 20 to 500 transactions per second.
+---CHUNK---
+chunk_id: C0016
+company: LTM
+type: normal_summary
+source_id: LTM-WEB-002
+date: 2026
+title: Annual Report 2026 - LTM
+publisher: LTM
+url: https://www.ltm.com/annual-report-2026
+text:
+LTM source summary: LTM annual report content uses the theme "It is time to Outcreate" and says the company brings human insights and intelligent systems together. The annual report page describes LTM technology and domain expertise as converging to create new ways of working, productivity paradigms, and roads to value. The annual report page describes an agentic AI ecosystem for the enterprise of the future and AI-powered digital agents that blend AI efficiency with human-guided intelligence. The page lists May 2026 updates including an offer to acquire Randstad Tech & Consulting Services business in Europe and Australia, and a partnership with Uniphore to scale domain-specific AI. The page lists February 2026 content about the new brand identity and positioning as LTM, the Business Creativity Partner. The page lists November 2025 content about strengthening relationship with Microsoft to drive AI-powered transformation. The page includes case-study style outcome numbers, including 30% faster releases, 40% shorter test cycles, 3x device coverage, and 50% infrastructure savings for a streaming experience example. The page includes an omnichannel commerce example with conversions growing by 30-40% and engagement reaching 8.5M weekly. The page includes an instant payments example where processing speed was boosted by 91% and capacity scaled from 20 to 500 transactions per second.
+---CHUNK---
+chunk_id: C0017
+company: LTM
+type: qa
+source_id: LTM-WEB-002
+date: 2026
+title: Annual Report 2026 - LTM
+publisher: LTM
+url: https://www.ltm.com/annual-report-2026
+text:
+Question: What happened in this source?
+Answer: LTM annual report content uses the theme "It is time to Outcreate" and says the company brings human insights and intelligent systems together. The annual report page describes LTM technology and domain expertise as converging to create new ways of working, productivity paradigms, and roads to value. The annual report page describes an agentic AI ecosystem for the enterprise of the future and AI-powered digital agents that blend AI efficiency with human-guided intelligence. The page lists May 2026 updates including an offer to acquire Randstad Tech & Consulting Services business in Europe and Australia, and a partnership with Uniphore to scale domain-specific AI. The page lists February 2026 content about the new brand identity and positioning as LTM, the Business Creativity Partner. The page lists November 2025 content about strengthening relationship with Microsoft to drive AI-powered transformation. The page includes case-study style outcome numbers, including 30% faster releases, 40% shorter test cycles, 3x device coverage, and 50% infrastructure savings for a streaming experience example. The page includes an omnichannel commerce example with conversions growing by 30-40% and engagement reaching 8.5M weekly. The page includes an instant payments example where processing spee
+---CHUNK---
+chunk_id: C0018
+company: LTM
+type: qa
+source_id: LTM-WEB-002
+date: 2026
+title: Annual Report 2026 - LTM
+publisher: LTM
+url: https://www.ltm.com/annual-report-2026
+text:
+Question: Why is this useful for RAG?
+Answer: This source gives dated, source-backed facts about LTM. It should be retrieved when a user asks about LTM strategy, AI activity, partnerships, investments, recognition, products, or 2026 updates.
+---CHUNK---
+chunk_id: C0019
+company: LTM
+type: qa
+source_id: LTM-WEB-002
+date: 2026
+title: Annual Report 2026 - LTM
+publisher: LTM
+url: https://www.ltm.com/annual-report-2026
+text:
+Question: What should the chatbot cite?
+Answer: Use source_id LTM-WEB-002, title Annual Report 2026 - LTM, date 2026, publisher LTM, and URL https://www.ltm.com/annual-report-2026.
+---CHUNK---
+chunk_id: C0020
+company: LTM
+type: fact
+source_id: LTM-WEB-003
+date: 2026-02-11
+title: LTIMindtree Introduces New Brand Identity as LTM
+publisher: LTM Press Release
+url: https://www.ltm.com/news-events/press-releases/2026/ltimindtree-introduces-new-brand-identity-and-positioning--ltm--
+text:
+LTIMindtree unveiled a new brand identity and positioning as LTM.
+---CHUNK---
+chunk_id: C0021
+company: LTM
+type: fact
+source_id: LTM-WEB-003
+date: 2026-02-11
+title: LTIMindtree Introduces New Brand Identity as LTM
+publisher: LTM Press Release
+url: https://www.ltm.com/news-events/press-releases/2026/ltimindtree-introduces-new-brand-identity-and-positioning--ltm--
+text:
+The board approved a proposal to change the company name to LTM Limited, subject to shareholder and regulatory approvals.
+---CHUNK---
+chunk_id: C0022
+company: LTM
+type: fact
+source_id: LTM-WEB-003
+date: 2026-02-11
+title: LTIMindtree Introduces New Brand Identity as LTM
+publisher: LTM Press Release
+url: https://www.ltm.com/news-events/press-releases/2026/ltimindtree-introduces-new-brand-identity-and-positioning--ltm--
+text:
+The new identity positions LTM as the Business Creativity partner.
+---CHUNK---
+chunk_id: C0023
+company: LTM
+type: fact
+source_id: LTM-WEB-003
+date: 2026-02-11
+title: LTIMindtree Introduces New Brand Identity as LTM
+publisher: LTM Press Release
+url: https://www.ltm.com/news-events/press-releases/2026/ltimindtree-introduces-new-brand-identity-and-positioning--ltm--
+text:
+LTM described itself as an AI-centric global technology services company.
+---CHUNK---
+chunk_id: C0024
+company: LTM
+type: fact
+source_id: LTM-WEB-003
+date: 2026-02-11
+title: LTIMindtree Introduces New Brand Identity as LTM
+publisher: LTM Press Release
+url: https://www.ltm.com/news-events/press-releases/2026/ltimindtree-introduces-new-brand-identity-and-positioning--ltm--
+text:
+The company said it brings human insights and intelligent systems together to help clients create value at the intersection of technology and domain expertise.
+---CHUNK---
+chunk_id: C0025
+company: LTM
+type: fact
+source_id: LTM-WEB-003
+date: 2026-02-11
+title: LTIMindtree Introduces New Brand Identity as LTM
+publisher: LTM Press Release
+url: https://www.ltm.com/news-events/press-releases/2026/ltimindtree-introduces-new-brand-identity-and-positioning--ltm--
+text:
+The company said its capabilities span integrated operations, transformation, and business AI.
+---CHUNK---
+chunk_id: C0026
+company: LTM
+type: fact
+source_id: LTM-WEB-003
+date: 2026-02-11
+title: LTIMindtree Introduces New Brand Identity as LTM
+publisher: LTM Press Release
+url: https://www.ltm.com/news-events/press-releases/2026/ltimindtree-introduces-new-brand-identity-and-positioning--ltm--
+text:
+LTM stated that it has more than 87,000 employees across 40 countries.
+---CHUNK---
+chunk_id: C0027
+company: LTM
+type: normal_summary
+source_id: LTM-WEB-003
+date: 2026-02-11
+title: LTIMindtree Introduces New Brand Identity as LTM
+publisher: LTM Press Release
+url: https://www.ltm.com/news-events/press-releases/2026/ltimindtree-introduces-new-brand-identity-and-positioning--ltm--
+text:
+LTM source summary: LTIMindtree unveiled a new brand identity and positioning as LTM. The board approved a proposal to change the company name to LTM Limited, subject to shareholder and regulatory approvals. The new identity positions LTM as the Business Creativity partner. LTM described itself as an AI-centric global technology services company. The company said it brings human insights and intelligent systems together to help clients create value at the intersection of technology and domain expertise. The company said its capabilities span integrated operations, transformation, and business AI. LTM stated that it has more than 87,000 employees across 40 countries.
+---CHUNK---
+chunk_id: C0028
+company: LTM
+type: qa
+source_id: LTM-WEB-003
+date: 2026-02-11
+title: LTIMindtree Introduces New Brand Identity as LTM
+publisher: LTM Press Release
+url: https://www.ltm.com/news-events/press-releases/2026/ltimindtree-introduces-new-brand-identity-and-positioning--ltm--
+text:
+Question: What happened in this source?
+Answer: LTIMindtree unveiled a new brand identity and positioning as LTM. The board approved a proposal to change the company name to LTM Limited, subject to shareholder and regulatory approvals. The new identity positions LTM as the Business Creativity partner. LTM described itself as an AI-centric global technology services company. The company said it brings human insights and intelligent systems together to help clients create value at the intersection of technology and domain expertise. The company said its capabilities span integrated operations, transformation, and business AI. LTM stated that it has more than 87,000 employees across 40 countries.
+---CHUNK---
+chunk_id: C0029
+company: LTM
+type: qa
+source_id: LTM-WEB-003
+date: 2026-02-11
+title: LTIMindtree Introduces New Brand Identity as LTM
+publisher: LTM Press Release
+url: https://www.ltm.com/news-events/press-releases/2026/ltimindtree-introduces-new-brand-identity-and-positioning--ltm--
+text:
+Question: Why is this useful for RAG?
+Answer: This source gives dated, source-backed facts about LTM. It should be retrieved when a user asks about LTM strategy, AI activity, partnerships, investments, recognition, products, or 2026 updates.
+---CHUNK---
+chunk_id: C0030
+company: LTM
+type: qa
+source_id: LTM-WEB-003
+date: 2026-02-11
+title: LTIMindtree Introduces New Brand Identity as LTM
+publisher: LTM Press Release
+url: https://www.ltm.com/news-events/press-releases/2026/ltimindtree-introduces-new-brand-identity-and-positioning--ltm--
+text:
+Question: What should the chatbot cite?
+Answer: Use source_id LTM-WEB-003, title LTIMindtree Introduces New Brand Identity as LTM, date 2026-02-11, publisher LTM Press Release, and URL https://www.ltm.com/news-events/press-releases/2026/ltimindtree-introduces-new-brand-identity-and-positioning--ltm--.
+---CHUNK---
+chunk_id: C0031
+company: LTM
+type: fact
+source_id: LTM-ENT-001
+date: 2026-07-07
+title: LTM Launches BlueVerse RightLogic to Help Enterprises Strengthen Cyber Resilience in the AI Era
+publisher: Internal Communications LTM
+url: enterprise-search-result
+text:
+LTM launched BlueVerse RightLogic, a cybersecurity assessment and risk assurance framework.
+---CHUNK---
+chunk_id: C0032
+company: LTM
+type: fact
+source_id: LTM-ENT-001
+date: 2026-07-07
+title: LTM Launches BlueVerse RightLogic to Help Enterprises Strengthen Cyber Resilience in the AI Era
+publisher: Internal Communications LTM
+url: enterprise-search-result
+text:
+The internal communication says BlueVerse RightLogic is designed to help enterprises identify, assess, and remediate cyber exposure in an AI-driven world.
+---CHUNK---
+chunk_id: C0033
+company: LTM
+type: fact
+source_id: LTM-ENT-001
+date: 2026-07-07
+title: LTM Launches BlueVerse RightLogic to Help Enterprises Strengthen Cyber Resilience in the AI Era
+publisher: Internal Communications LTM
+url: enterprise-search-result
+text:
+The communication says AI-powered threats are becoming more autonomous and sophisticated.
+---CHUNK---
+chunk_id: C0034
+company: LTM
+type: fact
+source_id: LTM-ENT-001
+date: 2026-07-07
+title: LTM Launches BlueVerse RightLogic to Help Enterprises Strengthen Cyber Resilience in the AI Era
+publisher: Internal Communications LTM
+url: enterprise-search-result
+text:
+The communication says BlueVerse RightLogic delivers a unified, business-aligned view of enterprise security across infrastructure, applications, software supply chains, AI systems, and governance.
+---CHUNK---
+chunk_id: C0035
+company: LTM
+type: fact
+source_id: LTM-ENT-001
+date: 2026-07-07
+title: LTM Launches BlueVerse RightLogic to Help Enterprises Strengthen Cyber Resilience in the AI Era
+publisher: Internal Communications LTM
+url: enterprise-search-result
+text:
+The communication says the framework uses a structured assessment and remediation approach to prioritize action and strengthen security posture.
+---CHUNK---
+chunk_id: C0036
+company: LTM
+type: normal_summary
+source_id: LTM-ENT-001
+date: 2026-07-07
+title: LTM Launches BlueVerse RightLogic to Help Enterprises Strengthen Cyber Resilience in the AI Era
+publisher: Internal Communications LTM
+url: enterprise-search-result
+text:
+LTM source summary: LTM launched BlueVerse RightLogic, a cybersecurity assessment and risk assurance framework. The internal communication says BlueVerse RightLogic is designed to help enterprises identify, assess, and remediate cyber exposure in an AI-driven world. The communication says AI-powered threats are becoming more autonomous and sophisticated. The communication says BlueVerse RightLogic delivers a unified, business-aligned view of enterprise security across infrastructure, applications, software supply chains, AI systems, and governance. The communication says the framework uses a structured assessment and remediation approach to prioritize action and strengthen security posture.
+---CHUNK---
+chunk_id: C0037
+company: LTM
+type: qa
+source_id: LTM-ENT-001
+date: 2026-07-07
+title: LTM Launches BlueVerse RightLogic to Help Enterprises Strengthen Cyber Resilience in the AI Era
+publisher: Internal Communications LTM
+url: enterprise-search-result
+text:
+Question: What happened in this source?
+Answer: LTM launched BlueVerse RightLogic, a cybersecurity assessment and risk assurance framework. The internal communication says BlueVerse RightLogic is designed to help enterprises identify, assess, and remediate cyber exposure in an AI-driven world. The communication says AI-powered threats are becoming more autonomous and sophisticated. The communication says BlueVerse RightLogic delivers a unified, business-aligned view of enterprise security across infrastructure, applications, software supply chains, AI systems, and governance. The communication says the framework uses a structured assessment and remediation approach to prioritize action and strengthen security posture.
+---CHUNK---
+chunk_id: C0038
+company: LTM
+type: qa
+source_id: LTM-ENT-001
+date: 2026-07-07
+title: LTM Launches BlueVerse RightLogic to Help Enterprises Strengthen Cyber Resilience in the AI Era
+publisher: Internal Communications LTM
+url: enterprise-search-result
+text:
+Question: Why is this useful for RAG?
+Answer: This source gives dated, source-backed facts about LTM. It should be retrieved when a user asks about LTM strategy, AI activity, partnerships, investments, recognition, products, or 2026 updates.
+---CHUNK---
+chunk_id: C0039
+company: LTM
+type: qa
+source_id: LTM-ENT-001
+date: 2026-07-07
+title: LTM Launches BlueVerse RightLogic to Help Enterprises Strengthen Cyber Resilience in the AI Era
+publisher: Internal Communications LTM
+url: enterprise-search-result
+text:
+Question: What should the chatbot cite?
+Answer: Use source_id LTM-ENT-001, title LTM Launches BlueVerse RightLogic to Help Enterprises Strengthen Cyber Resilience in the AI Era, date 2026-07-07, publisher Internal Communications LTM, and URL enterprise-search-result.
+---CHUNK---
+chunk_id: C0040
+company: LTM
+type: company_profile
+source_id: MULTI
+date: 2026-07-10 11:41 IST
+title: LTM combined RAG profile
+publisher: Generated from listed sources
+url: see source records
+text:
+LTM combined profile: LTM is treated in this dataset as LTIMindtree/LTM, with current source material emphasizing Business Creativity, AI-centric services, BlueVerse, enterprise transformation, cyber risk, and annual-report investor information. Key source-backed facts: LTM Investors lists FY 2026 annual report material, including Interactive Annual Report 2026, AGM Notice dated 1 June 2026, Integrated Annual Report 2025-26 PDF, Subsidiary Annual Report 2025-26, Annual Return Form MGT-7 FY2025-26, ESOP Disclosure FY2025-26, and CSR capital assets list FY2025-26. The LTM annual reports page presents annual reports, financial statements, investor updates, and corporate performance insights in one place. LTM annual report content uses the theme "It is time to Outcreate" and says the company brings human insights and intelligent systems together. The annual report page describes LTM technology and domain expertise as converging to create new ways of working, productivity paradigms, and roads to value. The annual report page describes an agentic AI ecosystem for the enterprise of the future and AI-powered digital agents that blend AI efficiency with human-guided intelligence. The page lists May 2026 updates including an offer to acquire Randstad Tech & Consulting Services business in Europe and Australia, and a partnership with Uniphore to scale domain-specific AI. The page lists February 2026 content about the new brand identity and positioning as LTM, the Business Creativity Partner. The page lists November 2025 content about strengthening relationship with Microsoft to drive AI-powered transformation. The page includes case-study style outcome numbers, including 30% faster releases, 40% shorter test cycles, 3x device coverage, and 50% infrastructure savings for a streaming experience example. The page includes an omnichannel commerce example with conversions growing by 30-40% and engagement reaching 8.5M weekly. The page includes an instant payments example where processing speed was boosted by 91% and capacity scaled from 20 to 500 transactions per second. LTIMindtree unveiled a new brand identity and positioning as LTM. The board approved a proposal to change the company name to LTM Limited, subject to shareholder and regulatory approvals. The new identity positions LTM as the Business Creativity partner. LTM described itself as an AI-centric global technology services company. The company said it brings human insights and inte
+---CHUNK---
+chunk_id: C0041
+company: Google
+type: fact
+source_id: GOO-WEB-001
+date: 2026-05-19
+title: Google I/O 2026: News and announcements
+publisher: Google The Keyword
+url: https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/
+text:
+At Google I/O 2026, Google said it was making AI more helpful for everyone.
+---CHUNK---
+chunk_id: C0042
+company: Google
+type: fact
+source_id: GOO-WEB-001
+date: 2026-05-19
+title: Google I/O 2026: News and announcements
+publisher: Google The Keyword
+url: https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/
+text:
+Google announced Gemini Omni and Gemini 3.5.
+---CHUNK---
+chunk_id: C0043
+company: Google
+type: fact
+source_id: GOO-WEB-001
+date: 2026-05-19
+title: Google I/O 2026: News and announcements
+publisher: Google The Keyword
+url: https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/
+text:
+Gemini Omni is described as being able to create anything from any input, starting with video.
+---CHUNK---
+chunk_id: C0044
+company: Google
+type: fact
+source_id: GOO-WEB-001
+date: 2026-05-19
+title: Google I/O 2026: News and announcements
+publisher: Google The Keyword
+url: https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/
+text:
+Gemini Omni is described as a leap forward in world understanding, multimodality, and editing.
+---CHUNK---
+chunk_id: C0045
+company: Google
+type: fact
+source_id: GOO-WEB-001
+date: 2026-05-19
+title: Google I/O 2026: News and announcements
+publisher: Google The Keyword
+url: https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/
+text:
+Gemini 3.5 Flash is described as the first model in the latest Gemini family combining frontier intelligence with action.
+---CHUNK---
+chunk_id: C0046
+company: Google
+type: fact
+source_id: GOO-WEB-001
+date: 2026-05-19
+title: Google I/O 2026: News and announcements
+publisher: Google The Keyword
+url: https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/
+text:
+Google described advancements to Google Antigravity as moving from AI tools that help write to agents that help act.
+---CHUNK---
+chunk_id: C0047
+company: Google
+type: fact
+source_id: GOO-WEB-001
+date: 2026-05-19
+title: Google I/O 2026: News and announcements
+publisher: Google The Keyword
+url: https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/
+text:
+Google described agentic experiences across Search, Gemini Spark, Daily Brief in the Gemini app, and Universal Cart.
+---CHUNK---
+chunk_id: C0048
+company: Google
+type: fact
+source_id: GOO-WEB-001
+date: 2026-05-19
+title: Google I/O 2026: News and announcements
+publisher: Google The Keyword
+url: https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/
+text:
+Google said it is continuing to scale Gemini across products from Google Pics to intelligent eyewear to Ask YouTube.
+---CHUNK---
+chunk_id: C0049
+company: Google
+type: fact
+source_id: GOO-WEB-001
+date: 2026-05-19
+title: Google I/O 2026: News and announcements
+publisher: Google The Keyword
+url: https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/
+text:
+Google Workspace updates included new voice capabilities in Gmail, Docs, and Keep, a new design tool called Google Pics, and updates to AI Inbox.
+---CHUNK---
+chunk_id: C0050
+company: Google
+type: fact
+source_id: GOO-WEB-001
+date: 2026-05-19
+title: Google I/O 2026: News and announcements
+publisher: Google The Keyword
+url: https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/
+text:
+Google mentioned expanding digital watermarking with SynthID and C2PA Content Credentials to help identify AI-generated media.
+---CHUNK---
+chunk_id: C0051
+company: Google
+type: normal_summary
+source_id: GOO-WEB-001
+date: 2026-05-19
+title: Google I/O 2026: News and announcements
+publisher: Google The Keyword
+url: https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/
+text:
+Google source summary: At Google I/O 2026, Google said it was making AI more helpful for everyone. Google announced Gemini Omni and Gemini 3.5. Gemini Omni is described as being able to create anything from any input, starting with video. Gemini Omni is described as a leap forward in world understanding, multimodality, and editing. Gemini 3.5 Flash is described as the first model in the latest Gemini family combining frontier intelligence with action. Google described advancements to Google Antigravity as moving from AI tools that help write to agents that help act. Google described agentic experiences across Search, Gemini Spark, Daily Brief in the Gemini app, and Universal Cart. Google said it is continuing to scale Gemini across products from Google Pics to intelligent eyewear to Ask YouTube. Google Workspace updates included new voice capabilities in Gmail, Docs, and Keep, a new design tool called Google Pics, and updates to AI Inbox. Google mentioned expanding digital watermarking with SynthID and C2PA Content Credentials to help identify AI-generated media.
+---CHUNK---
+chunk_id: C0052
+company: Google
+type: qa
+source_id: GOO-WEB-001
+date: 2026-05-19
+title: Google I/O 2026: News and announcements
+publisher: Google The Keyword
+url: https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/
+text:
+Question: What happened in this source?
+Answer: At Google I/O 2026, Google said it was making AI more helpful for everyone. Google announced Gemini Omni and Gemini 3.5. Gemini Omni is described as being able to create anything from any input, starting with video. Gemini Omni is described as a leap forward in world understanding, multimodality, and editing. Gemini 3.5 Flash is described as the first model in the latest Gemini family combining frontier intelligence with action. Google described advancements to Google Antigravity as moving from AI tools that help write to agents that help act. Google described agentic experiences across Search, Gemini Spark, Daily Brief in the Gemini app, and Universal Cart. Google said it is continuing to scale Gemini across products from Google Pics to intelligent eyewear to Ask YouTube. Google Workspace updates included new voice capabilities in Gmail, Docs, and Keep, a new design tool called Google Pics, and updates to AI Inbox. Google mentioned expanding digital watermarking with SynthID and C2PA Content Credentials to help identify AI-generated media.
+---CHUNK---
+chunk_id: C0053
+company: Google
+type: qa
+source_id: GOO-WEB-001
+date: 2026-05-19
+title: Google I/O 2026: News and announcements
+publisher: Google The Keyword
+url: https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/
+text:
+Question: Why is this useful for RAG?
+Answer: This source gives dated, source-backed facts about Google. It should be retrieved when a user asks about Google strategy, AI activity, partnerships, investments, recognition, products, or 2026 updates.
+---CHUNK---
+chunk_id: C0054
+company: Google
+type: qa
+source_id: GOO-WEB-001
+date: 2026-05-19
+title: Google I/O 2026: News and announcements
+publisher: Google The Keyword
+url: https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/
+text:
+Question: What should the chatbot cite?
+Answer: Use source_id GOO-WEB-001, title Google I/O 2026: News and announcements, date 2026-05-19, publisher Google The Keyword, and URL https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/.
+---CHUNK---
+chunk_id: C0055
+company: Google
+type: fact
+source_id: GOO-WEB-002
+date: 2026-05-20
+title: 100 things we announced at Google I/O 2026
+publisher: Google The Keyword
+url: https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/
+text:
+Google said I/O 2026 unveiled new models, agents, and tools to help people build, search, create, discover, shop, and get more done.
+---CHUNK---
+chunk_id: C0056
+company: Google
+type: fact
+source_id: GOO-WEB-002
+date: 2026-05-20
+title: 100 things we announced at Google I/O 2026
+publisher: Google The Keyword
+url: https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/
+text:
+Google launched Gemini 3.5 Flash as the first model in the Gemini 3.5 family combining frontier intelligence with action.
+---CHUNK---
+chunk_id: C0057
+company: Google
+type: fact
+source_id: GOO-WEB-002
+date: 2026-05-20
+title: 100 things we announced at Google I/O 2026
+publisher: Google The Keyword
+url: https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/
+text:
+Google said Gemini 3.5 Flash is generally available via Google Antigravity, the Gemini API in Google AI Studio, and Android Studio.
+---CHUNK---
+chunk_id: C0058
+company: Google
+type: fact
+source_id: GOO-WEB-002
+date: 2026-05-20
+title: 100 things we announced at Google I/O 2026
+publisher: Google The Keyword
+url: https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/
+text:
+Google said Gemini 3.5 Flash outperforms Gemini 3.1 Pro on challenging coding and agentic benchmarks including Terminal-Bench 2.1, GDPval-AA, and MCP Atlas.
+---CHUNK---
+chunk_id: C0059
+company: Google
+type: fact
+source_id: GOO-WEB-002
+date: 2026-05-20
+title: 100 things we announced at Google I/O 2026
+publisher: Google The Keyword
+url: https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/
+text:
+Google said Gemini 3.5 Flash is ideal for long-horizon agentic tasks.
+---CHUNK---
+chunk_id: C0060
+company: Google
+type: fact
+source_id: GOO-WEB-002
+date: 2026-05-20
+title: 100 things we announced at Google I/O 2026
+publisher: Google The Keyword
+url: https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/
+text:
+Google said Gemini 3.5 Pro was being used internally and expected to roll out the next month.
+---CHUNK---
+chunk_id: C0061
+company: Google
+type: fact
+source_id: GOO-WEB-002
+date: 2026-05-20
+title: 100 things we announced at Google I/O 2026
+publisher: Google The Keyword
+url: https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/
+text:
+Google described Gemini Omni as a new model that can create anything from any input, starting with video.
+---CHUNK---
+chunk_id: C0062
+company: Google
+type: fact
+source_id: GOO-WEB-002
+date: 2026-05-20
+title: 100 things we announced at Google I/O 2026
+publisher: Google The Keyword
+url: https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/
+text:
+Google said videos created with Omni include SynthID digital watermarking and can be verified through Gemini app, Gemini in Chrome, and Search.
+---CHUNK---
+chunk_id: C0063
+company: Google
+type: normal_summary
+source_id: GOO-WEB-002
+date: 2026-05-20
+title: 100 things we announced at Google I/O 2026
+publisher: Google The Keyword
+url: https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/
+text:
+Google source summary: Google said I/O 2026 unveiled new models, agents, and tools to help people build, search, create, discover, shop, and get more done. Google launched Gemini 3.5 Flash as the first model in the Gemini 3.5 family combining frontier intelligence with action. Google said Gemini 3.5 Flash is generally available via Google Antigravity, the Gemini API in Google AI Studio, and Android Studio. Google said Gemini 3.5 Flash outperforms Gemini 3.1 Pro on challenging coding and agentic benchmarks including Terminal-Bench 2.1, GDPval-AA, and MCP Atlas. Google said Gemini 3.5 Flash is ideal for long-horizon agentic tasks. Google said Gemini 3.5 Pro was being used internally and expected to roll out the next month. Google described Gemini Omni as a new model that can create anything from any input, starting with video. Google said videos created with Omni include SynthID digital watermarking and can be verified through Gemini app, Gemini in Chrome, and Search.
+---CHUNK---
+chunk_id: C0064
+company: Google
+type: qa
+source_id: GOO-WEB-002
+date: 2026-05-20
+title: 100 things we announced at Google I/O 2026
+publisher: Google The Keyword
+url: https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/
+text:
+Question: What happened in this source?
+Answer: Google said I/O 2026 unveiled new models, agents, and tools to help people build, search, create, discover, shop, and get more done. Google launched Gemini 3.5 Flash as the first model in the Gemini 3.5 family combining frontier intelligence with action. Google said Gemini 3.5 Flash is generally available via Google Antigravity, the Gemini API in Google AI Studio, and Android Studio. Google said Gemini 3.5 Flash outperforms Gemini 3.1 Pro on challenging coding and agentic benchmarks including Terminal-Bench 2.1, GDPval-AA, and MCP Atlas. Google said Gemini 3.5 Flash is ideal for long-horizon agentic tasks. Google said Gemini 3.5 Pro was being used internally and expected to roll out the next month. Google described Gemini Omni as a new model that can create anything from any input, starting with video. Google said videos created with Omni include SynthID digital watermarking and can be verified through Gemini app, Gemini in Chrome, and Search.
+---CHUNK---
+chunk_id: C0065
+company: Google
+type: qa
+source_id: GOO-WEB-002
+date: 2026-05-20
+title: 100 things we announced at Google I/O 2026
+publisher: Google The Keyword
+url: https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/
+text:
+Question: Why is this useful for RAG?
+Answer: This source gives dated, source-backed facts about Google. It should be retrieved when a user asks about Google strategy, AI activity, partnerships, investments, recognition, products, or 2026 updates.
+---CHUNK---
+chunk_id: C0066
+company: Google
+type: qa
+source_id: GOO-WEB-002
+date: 2026-05-20
+title: 100 things we announced at Google I/O 2026
+publisher: Google The Keyword
+url: https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/
+text:
+Question: What should the chatbot cite?
+Answer: Use source_id GOO-WEB-002, title 100 things we announced at Google I/O 2026, date 2026-05-20, publisher Google The Keyword, and URL https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/.
+---CHUNK---
+chunk_id: C0067
+company: Google
+type: company_profile
+source_id: MULTI
+date: 2026-07-10 11:41 IST
+title: Google combined RAG profile
+publisher: Generated from listed sources
+url: see source records
+text:
+Google combined profile: Google source material in this dataset focuses on Google I/O 2026, Gemini 3.5 Flash, Gemini Omni, agentic experiences, Search, Workspace, developer tools, Google AI Studio, Android Studio, SynthID, and content credentials. Key source-backed facts: At Google I/O 2026, Google said it was making AI more helpful for everyone. Google announced Gemini Omni and Gemini 3.5. Gemini Omni is described as being able to create anything from any input, starting with video. Gemini Omni is described as a leap forward in world understanding, multimodality, and editing. Gemini 3.5 Flash is described as the first model in the latest Gemini family combining frontier intelligence with action. Google described advancements to Google Antigravity as moving from AI tools that help write to agents that help act. Google described agentic experiences across Search, Gemini Spark, Daily Brief in the Gemini app, and Universal Cart. Google said it is continuing to scale Gemini across products from Google Pics to intelligent eyewear to Ask YouTube. Google Workspace updates included new voice capabilities in Gmail, Docs, and Keep, a new design tool called Google Pics, and updates to AI Inbox. Google mentioned expanding digital watermarking with SynthID and C2PA Content Credentials to help identify AI-generated media. Google said I/O 2026 unveiled new models, agents, and tools to help people build, search, create, discover, shop, and get more done. Google launched Gemini 3.5 Flash as the first model in the Gemini 3.5 family combining frontier intelligence with action. Google said Gemini 3.5 Flash is generally available via Google Antigravity, the Gemini API in Google AI Studio, and Android Studio. Google said Gemini 3.5 Flash outperforms Gemini 3.1 Pro on challenging coding and agentic benchmarks including Terminal-Bench 2.1, GDPval-AA, and MCP Atlas. Google said Gemini 3.5 Flash is ideal for long-horizon agentic tasks. Google said Gemini 3.5 Pro was being used internally and expected to roll out the next month. Google described Gemini Omni as a new model that can create anything from any input, starting with video. Google said videos created with Omni include SynthID digital watermarking and can be verified through Gemini app, Gemini in Chrome, and Search.
+---CHUNK---
+chunk_id: C0068
+company: Amazon
+type: fact
+source_id: AMZ-WEB-001
+date: 2026-07-09
+title: Company news - About Amazon
+publisher: About Amazon
+url: https://www.aboutamazon.com/news/company-news
+text:
+About Amazon listed a July 9, 2026 company news roundup.
+---CHUNK---
+chunk_id: C0069
+company: Amazon
+type: fact
+source_id: AMZ-WEB-001
+date: 2026-07-09
+title: Company news - About Amazon
+publisher: About Amazon
+url: https://www.aboutamazon.com/news/company-news
+text:
+About Amazon listed that Amazon announced it will invest 48 billion dollars in India by 2030.
+---CHUNK---
+chunk_id: C0070
+company: Amazon
+type: fact
+source_id: AMZ-WEB-001
+date: 2026-07-09
+title: Company news - About Amazon
+publisher: About Amazon
+url: https://www.aboutamazon.com/news/company-news
+text:
+About Amazon listed a June 23, 2026 item about the Learn and Be Curious podcast.
+---CHUNK---
+chunk_id: C0071
+company: Amazon
+type: fact
+source_id: AMZ-WEB-001
+date: 2026-07-09
+title: Company news - About Amazon
+publisher: About Amazon
+url: https://www.aboutamazon.com/news/company-news
+text:
+About Amazon listed a June 15, 2026 item about strengthening investment in Missouri for community programs, jobs, and tax revenue.
+---CHUNK---
+chunk_id: C0072
+company: Amazon
+type: fact
+source_id: AMZ-WEB-001
+date: 2026-07-09
+title: Company news - About Amazon
+publisher: About Amazon
+url: https://www.aboutamazon.com/news/company-news
+text:
+About Amazon listed a June 8, 2026 agreement with Corning to boost U.S. fiber optics manufacturing and create 1,000 advanced manufacturing jobs in North Carolina.
+---CHUNK---
+chunk_id: C0073
+company: Amazon
+type: fact
+source_id: AMZ-WEB-001
+date: 2026-07-09
+title: Company news - About Amazon
+publisher: About Amazon
+url: https://www.aboutamazon.com/news/company-news
+text:
+About Amazon listed a May 27, 2026 update on Amazon Health Services leadership.
+---CHUNK---
+chunk_id: C0074
+company: Amazon
+type: fact
+source_id: AMZ-WEB-001
+date: 2026-07-09
+title: Company news - About Amazon
+publisher: About Amazon
+url: https://www.aboutamazon.com/news/company-news
+text:
+About Amazon listed May 2026 CEO Andy Jassy articles on retail prices, rural America, and opening Amazon supply chain to every business.
+---CHUNK---
+chunk_id: C0075
+company: Amazon
+type: fact
+source_id: AMZ-WEB-001
+date: 2026-07-09
+title: Company news - About Amazon
+publisher: About Amazon
+url: https://www.aboutamazon.com/news/company-news
+text:
+About Amazon listed May 6, 2026 plans to invest more than 15 billion euros in France and create more than 7,000 permanent jobs.
+---CHUNK---
+chunk_id: C0076
+company: Amazon
+type: normal_summary
+source_id: AMZ-WEB-001
+date: 2026-07-09
+title: Company news - About Amazon
+publisher: About Amazon
+url: https://www.aboutamazon.com/news/company-news
+text:
+Amazon source summary: About Amazon listed a July 9, 2026 company news roundup. About Amazon listed that Amazon announced it will invest 48 billion dollars in India by 2030. About Amazon listed a June 23, 2026 item about the Learn and Be Curious podcast. About Amazon listed a June 15, 2026 item about strengthening investment in Missouri for community programs, jobs, and tax revenue. About Amazon listed a June 8, 2026 agreement with Corning to boost U.S. fiber optics manufacturing and create 1,000 advanced manufacturing jobs in North Carolina. About Amazon listed a May 27, 2026 update on Amazon Health Services leadership. About Amazon listed May 2026 CEO Andy Jassy articles on retail prices, rural America, and opening Amazon supply chain to every business. About Amazon listed May 6, 2026 plans to invest more than 15 billion euros in France and create more than 7,000 permanent jobs.
+---CHUNK---
+chunk_id: C0077
+company: Amazon
+type: qa
+source_id: AMZ-WEB-001
+date: 2026-07-09
+title: Company news - About Amazon
+publisher: About Amazon
+url: https://www.aboutamazon.com/news/company-news
+text:
+Question: What happened in this source?
+Answer: About Amazon listed a July 9, 2026 company news roundup. About Amazon listed that Amazon announced it will invest 48 billion dollars in India by 2030. About Amazon listed a June 23, 2026 item about the Learn and Be Curious podcast. About Amazon listed a June 15, 2026 item about strengthening investment in Missouri for community programs, jobs, and tax revenue. About Amazon listed a June 8, 2026 agreement with Corning to boost U.S. fiber optics manufacturing and create 1,000 advanced manufacturing jobs in North Carolina. About Amazon listed a May 27, 2026 update on Amazon Health Services leadership. About Amazon listed May 2026 CEO Andy Jassy articles on retail prices, rural America, and opening Amazon supply chain to every business. About Amazon listed May 6, 2026 plans to invest more than 15 billion euros in France and create more than 7,000 permanent jobs.
+---CHUNK---
+chunk_id: C0078
+company: Amazon
+type: qa
+source_id: AMZ-WEB-001
+date: 2026-07-09
+title: Company news - About Amazon
+publisher: About Amazon
+url: https://www.aboutamazon.com/news/company-news
+text:
+Question: Why is this useful for RAG?
+Answer: This source gives dated, source-backed facts about Amazon. It should be retrieved when a user asks about Amazon strategy, AI activity, partnerships, investments, recognition, products, or 2026 updates.
+---CHUNK---
+chunk_id: C0079
+company: Amazon
+type: qa
+source_id: AMZ-WEB-001
+date: 2026-07-09
+title: Company news - About Amazon
+publisher: About Amazon
+url: https://www.aboutamazon.com/news/company-news
+text:
+Question: What should the chatbot cite?
+Answer: Use source_id AMZ-WEB-001, title Company news - About Amazon, date 2026-07-09, publisher About Amazon, and URL https://www.aboutamazon.com/news/company-news.
+---CHUNK---
+chunk_id: C0080
+company: Amazon
+type: fact
+source_id: AMZ-WEB-002
+date: 2026-04-20
+title: Amazon and Anthropic expand strategic collaboration
+publisher: About Amazon
+url: https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai
+text:
+Amazon said Anthropic would secure up to 5 gigawatts of current and future generations of Amazon Trainium chips to train and power advanced AI models.
+---CHUNK---
+chunk_id: C0081
+company: Amazon
+type: fact
+source_id: AMZ-WEB-002
+date: 2026-04-20
+title: Amazon and Anthropic expand strategic collaboration
+publisher: About Amazon
+url: https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai
+text:
+Amazon said Anthropic Claude Platform would be available on AWS.
+---CHUNK---
+chunk_id: C0082
+company: Amazon
+type: fact
+source_id: AMZ-WEB-002
+date: 2026-04-20
+title: Amazon and Anthropic expand strategic collaboration
+publisher: About Amazon
+url: https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai
+text:
+Amazon said it would invest 5 billion dollars in Anthropic and up to an additional 20 billion dollars in the future.
+---CHUNK---
+chunk_id: C0083
+company: Amazon
+type: fact
+source_id: AMZ-WEB-002
+date: 2026-04-20
+title: Amazon and Anthropic expand strategic collaboration
+publisher: About Amazon
+url: https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai
+text:
+Amazon said more than 100,000 customers run Anthropic Claude models on AWS.
+---CHUNK---
+chunk_id: C0084
+company: Amazon
+type: fact
+source_id: AMZ-WEB-002
+date: 2026-04-20
+title: Amazon and Anthropic expand strategic collaboration
+publisher: About Amazon
+url: https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai
+text:
+Amazon described Project Rainier as one of the largest AI compute clusters in the world.
+---CHUNK---
+chunk_id: C0085
+company: Amazon
+type: fact
+source_id: AMZ-WEB-002
+date: 2026-04-20
+title: Amazon and Anthropic expand strategic collaboration
+publisher: About Amazon
+url: https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai
+text:
+Amazon said Anthropic committed to spend more than 100 billion dollars over ten years on AWS technologies.
+---CHUNK---
+chunk_id: C0086
+company: Amazon
+type: fact
+source_id: AMZ-WEB-002
+date: 2026-04-20
+title: Amazon and Anthropic expand strategic collaboration
+publisher: About Amazon
+url: https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai
+text:
+Amazon said the collaboration includes Trainium2, Trainium3, Trainium4, and the ability to purchase future generations of Trainium.
+---CHUNK---
+chunk_id: C0087
+company: Amazon
+type: fact
+source_id: AMZ-WEB-002
+date: 2026-04-20
+title: Amazon and Anthropic expand strategic collaboration
+publisher: About Amazon
+url: https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai
+text:
+Amazon said Amazon Bedrock runs most inference on Trainium today.
+---CHUNK---
+chunk_id: C0088
+company: Amazon
+type: fact
+source_id: AMZ-WEB-002
+date: 2026-04-20
+title: Amazon and Anthropic expand strategic collaboration
+publisher: About Amazon
+url: https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai
+text:
+Amazon said AWS customers would be able to access the full Anthropic-native Claude console from within AWS.
+---CHUNK---
+chunk_id: C0089
+company: Amazon
+type: normal_summary
+source_id: AMZ-WEB-002
+date: 2026-04-20
+title: Amazon and Anthropic expand strategic collaboration
+publisher: About Amazon
+url: https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai
+text:
+Amazon source summary: Amazon said Anthropic would secure up to 5 gigawatts of current and future generations of Amazon Trainium chips to train and power advanced AI models. Amazon said Anthropic Claude Platform would be available on AWS. Amazon said it would invest 5 billion dollars in Anthropic and up to an additional 20 billion dollars in the future. Amazon said more than 100,000 customers run Anthropic Claude models on AWS. Amazon described Project Rainier as one of the largest AI compute clusters in the world. Amazon said Anthropic committed to spend more than 100 billion dollars over ten years on AWS technologies. Amazon said the collaboration includes Trainium2, Trainium3, Trainium4, and the ability to purchase future generations of Trainium. Amazon said Amazon Bedrock runs most inference on Trainium today. Amazon said AWS customers would be able to access the full Anthropic-native Claude console from within AWS.
+---CHUNK---
+chunk_id: C0090
+company: Amazon
+type: qa
+source_id: AMZ-WEB-002
+date: 2026-04-20
+title: Amazon and Anthropic expand strategic collaboration
+publisher: About Amazon
+url: https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai
+text:
+Question: What happened in this source?
+Answer: Amazon said Anthropic would secure up to 5 gigawatts of current and future generations of Amazon Trainium chips to train and power advanced AI models. Amazon said Anthropic Claude Platform would be available on AWS. Amazon said it would invest 5 billion dollars in Anthropic and up to an additional 20 billion dollars in the future. Amazon said more than 100,000 customers run Anthropic Claude models on AWS. Amazon described Project Rainier as one of the largest AI compute clusters in the world. Amazon said Anthropic committed to spend more than 100 billion dollars over ten years on AWS technologies. Amazon said the collaboration includes Trainium2, Trainium3, Trainium4, and the ability to purchase future generations of Trainium. Amazon said Amazon Bedrock runs most inference on Trainium today. Amazon said AWS customers would be able to access the full Anthropic-native Claude console from within AWS.
+---CHUNK---
+chunk_id: C0091
+company: Amazon
+type: qa
+source_id: AMZ-WEB-002
+date: 2026-04-20
+title: Amazon and Anthropic expand strategic collaboration
+publisher: About Amazon
+url: https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai
+text:
+Question: Why is this useful for RAG?
+Answer: This source gives dated, source-backed facts about Amazon. It should be retrieved when a user asks about Amazon strategy, AI activity, partnerships, investments, recognition, products, or 2026 updates.
+---CHUNK---
+chunk_id: C0092
+company: Amazon
+type: qa
+source_id: AMZ-WEB-002
+date: 2026-04-20
+title: Amazon and Anthropic expand strategic collaboration
+publisher: About Amazon
+url: https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai
+text:
+Question: What should the chatbot cite?
+Answer: Use source_id AMZ-WEB-002, title Amazon and Anthropic expand strategic collaboration, date 2026-04-20, publisher About Amazon, and URL https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai.
+---CHUNK---
+chunk_id: C0093
+company: Amazon
+type: fact
+source_id: AMZ-WEB-003
+date: 2026-06-25
+title: Amazon adds new funding, lifting India AI and cloud investment to $48 billion
+publisher: CNBC
+url: https://www.cnbc.com/2026/06/25/amazon-investment-billion-ai-india.html
+text:
+CNBC reported Amazon announced 13 billion dollars of fresh investment to expand AI and cloud infrastructure in India.
+---CHUNK---
+chunk_id: C0094
+company: Amazon
+type: fact
+source_id: AMZ-WEB-003
+date: 2026-06-25
+title: Amazon adds new funding, lifting India AI and cloud investment to $48 billion
+publisher: CNBC
+url: https://www.cnbc.com/2026/06/25/amazon-investment-billion-ai-india.html
+text:
+CNBC reported this took Amazon total investment in India to 48 billion dollars between 2026 and 2030.
+---CHUNK---
+chunk_id: C0095
+company: Amazon
+type: fact
+source_id: AMZ-WEB-003
+date: 2026-06-25
+title: Amazon adds new funding, lifting India AI and cloud investment to $48 billion
+publisher: CNBC
+url: https://www.cnbc.com/2026/06/25/amazon-investment-billion-ai-india.html
+text:
+CNBC reported the funds would be used to expand AWS data center capacity in Mumbai and Hyderabad.
+---CHUNK---
+chunk_id: C0096
+company: Amazon
+type: fact
+source_id: AMZ-WEB-003
+date: 2026-06-25
+title: Amazon adds new funding, lifting India AI and cloud investment to $48 billion
+publisher: CNBC
+url: https://www.cnbc.com/2026/06/25/amazon-investment-billion-ai-india.html
+text:
+CNBC reported Amazon hopes to provide Indian startups, enterprises, and government organizations with access to custom AI chips, managed AI services, and secure and reliable cloud technologies.
+---CHUNK---
+chunk_id: C0097
+company: Amazon
+type: fact
+source_id: AMZ-WEB-003
+date: 2026-06-25
+title: Amazon adds new funding, lifting India AI and cloud investment to $48 billion
+publisher: CNBC
+url: https://www.cnbc.com/2026/06/25/amazon-investment-billion-ai-india.html
+text:
+CNBC reported Amazon total investment in India between 2010 and 2030 stands at 88 billion dollars.
+---CHUNK---
+chunk_id: C0098
+company: Amazon
+type: normal_summary
+source_id: AMZ-WEB-003
+date: 2026-06-25
+title: Amazon adds new funding, lifting India AI and cloud investment to $48 billion
+publisher: CNBC
+url: https://www.cnbc.com/2026/06/25/amazon-investment-billion-ai-india.html
+text:
+Amazon source summary: CNBC reported Amazon announced 13 billion dollars of fresh investment to expand AI and cloud infrastructure in India. CNBC reported this took Amazon total investment in India to 48 billion dollars between 2026 and 2030. CNBC reported the funds would be used to expand AWS data center capacity in Mumbai and Hyderabad. CNBC reported Amazon hopes to provide Indian startups, enterprises, and government organizations with access to custom AI chips, managed AI services, and secure and reliable cloud technologies. CNBC reported Amazon total investment in India between 2010 and 2030 stands at 88 billion dollars.
+---CHUNK---
+chunk_id: C0099
+company: Amazon
+type: qa
+source_id: AMZ-WEB-003
+date: 2026-06-25
+title: Amazon adds new funding, lifting India AI and cloud investment to $48 billion
+publisher: CNBC
+url: https://www.cnbc.com/2026/06/25/amazon-investment-billion-ai-india.html
+text:
+Question: What happened in this source?
+Answer: CNBC reported Amazon announced 13 billion dollars of fresh investment to expand AI and cloud infrastructure in India. CNBC reported this took Amazon total investment in India to 48 billion dollars between 2026 and 2030. CNBC reported the funds would be used to expand AWS data center capacity in Mumbai and Hyderabad. CNBC reported Amazon hopes to provide Indian startups, enterprises, and government organizations with access to custom AI chips, managed AI services, and secure and reliable cloud technologies. CNBC reported Amazon total investment in India between 2010 and 2030 stands at 88 billion dollars.
+---CHUNK---
+chunk_id: C0100
+company: Amazon
+type: qa
+source_id: AMZ-WEB-003
+date: 2026-06-25
+title: Amazon adds new funding, lifting India AI and cloud investment to $48 billion
+publisher: CNBC
+url: https://www.cnbc.com/2026/06/25/amazon-investment-billion-ai-india.html
+text:
+Question: Why is this useful for RAG?
+Answer: This source gives dated, source-backed facts about Amazon. It should be retrieved when a user asks about Amazon strategy, AI activity, partnerships, investments, recognition, products, or 2026 updates.
+---CHUNK---
+chunk_id: C0101
+company: Amazon
+type: qa
+source_id: AMZ-WEB-003
+date: 2026-06-25
+title: Amazon adds new funding, lifting India AI and cloud investment to $48 billion
+publisher: CNBC
+url: https://www.cnbc.com/2026/06/25/amazon-investment-billion-ai-india.html
+text:
+Question: What should the chatbot cite?
+Answer: Use source_id AMZ-WEB-003, title Amazon adds new funding, lifting India AI and cloud investment to $48 billion, date 2026-06-25, publisher CNBC, and URL https://www.cnbc.com/2026/06/25/amazon-investment-billion-ai-india.html.
+---CHUNK---
+chunk_id: C0102
+company: Amazon
+type: fact
+source_id: AMZ-WEB-004
+date: 2026-07-07
+title: Amazon raising at least $25 billion in bond sale
+publisher: CNBC
+url: https://www.cnbc.com/2026/07/07/amazon-bond-sale-ai-debt.html
+text:
+CNBC reported Amazon planned to raise at least 25 billion dollars through an eight-part bond sale.
+---CHUNK---
+chunk_id: C0103
+company: Amazon
+type: fact
+source_id: AMZ-WEB-004
+date: 2026-07-07
+title: Amazon raising at least $25 billion in bond sale
+publisher: CNBC
+url: https://www.cnbc.com/2026/07/07/amazon-bond-sale-ai-debt.html
+text:
+CNBC reported the debt sale came as Amazon continued its AI buildout.
+---CHUNK---
+chunk_id: C0104
+company: Amazon
+type: fact
+source_id: AMZ-WEB-004
+date: 2026-07-07
+title: Amazon raising at least $25 billion in bond sale
+publisher: CNBC
+url: https://www.cnbc.com/2026/07/07/amazon-bond-sale-ai-debt.html
+text:
+CNBC reported Amazon had projected capital expenditures of 200 billion dollars for the year, up from 131 billion dollars in 2025.
+---CHUNK---
+chunk_id: C0105
+company: Amazon
+type: fact
+source_id: AMZ-WEB-004
+date: 2026-07-07
+title: Amazon raising at least $25 billion in bond sale
+publisher: CNBC
+url: https://www.cnbc.com/2026/07/07/amazon-bond-sale-ai-debt.html
+text:
+CNBC reported proceeds could be used for general corporate purposes, including investments, future capital expenditures, and debt repayment.
+---CHUNK---
+chunk_id: C0106
+company: Amazon
+type: normal_summary
+source_id: AMZ-WEB-004
+date: 2026-07-07
+title: Amazon raising at least $25 billion in bond sale
+publisher: CNBC
+url: https://www.cnbc.com/2026/07/07/amazon-bond-sale-ai-debt.html
+text:
+Amazon source summary: CNBC reported Amazon planned to raise at least 25 billion dollars through an eight-part bond sale. CNBC reported the debt sale came as Amazon continued its AI buildout. CNBC reported Amazon had projected capital expenditures of 200 billion dollars for the year, up from 131 billion dollars in 2025. CNBC reported proceeds could be used for general corporate purposes, including investments, future capital expenditures, and debt repayment.
+---CHUNK---
+chunk_id: C0107
+company: Amazon
+type: qa
+source_id: AMZ-WEB-004
+date: 2026-07-07
+title: Amazon raising at least $25 billion in bond sale
+publisher: CNBC
+url: https://www.cnbc.com/2026/07/07/amazon-bond-sale-ai-debt.html
+text:
+Question: What happened in this source?
+Answer: CNBC reported Amazon planned to raise at least 25 billion dollars through an eight-part bond sale. CNBC reported the debt sale came as Amazon continued its AI buildout. CNBC reported Amazon had projected capital expenditures of 200 billion dollars for the year, up from 131 billion dollars in 2025. CNBC reported proceeds could be used for general corporate purposes, including investments, future capital expenditures, and debt repayment.
+---CHUNK---
+chunk_id: C0108
+company: Amazon
+type: qa
+source_id: AMZ-WEB-004
+date: 2026-07-07
+title: Amazon raising at least $25 billion in bond sale
+publisher: CNBC
+url: https://www.cnbc.com/2026/07/07/amazon-bond-sale-ai-debt.html
+text:
+Question: Why is this useful for RAG?
+Answer: This source gives dated, source-backed facts about Amazon. It should be retrieved when a user asks about Amazon strategy, AI activity, partnerships, investments, recognition, products, or 2026 updates.
+---CHUNK---
+chunk_id: C0109
+company: Amazon
+type: qa
+source_id: AMZ-WEB-004
+date: 2026-07-07
+title: Amazon raising at least $25 billion in bond sale
+publisher: CNBC
+url: https://www.cnbc.com/2026/07/07/amazon-bond-sale-ai-debt.html
+text:
+Question: What should the chatbot cite?
+Answer: Use source_id AMZ-WEB-004, title Amazon raising at least $25 billion in bond sale, date 2026-07-07, publisher CNBC, and URL https://www.cnbc.com/2026/07/07/amazon-bond-sale-ai-debt.html.
+---CHUNK---
+chunk_id: C0110
+company: Amazon
+type: company_profile
+source_id: MULTI
+date: 2026-07-10 11:41 IST
+title: Amazon combined RAG profile
+publisher: Generated from listed sources
+url: see source records
+text:
+Amazon combined profile: Amazon source material in this dataset focuses on AI infrastructure, AWS, custom AI chips, Anthropic collaboration, India investment, datacenter capacity, and company news items from 2026. Key source-backed facts: About Amazon listed a July 9, 2026 company news roundup. About Amazon listed that Amazon announced it will invest 48 billion dollars in India by 2030. About Amazon listed a June 23, 2026 item about the Learn and Be Curious podcast. About Amazon listed a June 15, 2026 item about strengthening investment in Missouri for community programs, jobs, and tax revenue. About Amazon listed a June 8, 2026 agreement with Corning to boost U.S. fiber optics manufacturing and create 1,000 advanced manufacturing jobs in North Carolina. About Amazon listed a May 27, 2026 update on Amazon Health Services leadership. About Amazon listed May 2026 CEO Andy Jassy articles on retail prices, rural America, and opening Amazon supply chain to every business. About Amazon listed May 6, 2026 plans to invest more than 15 billion euros in France and create more than 7,000 permanent jobs. Amazon said Anthropic would secure up to 5 gigawatts of current and future generations of Amazon Trainium chips to train and power advanced AI models. Amazon said Anthropic Claude Platform would be available on AWS. Amazon said it would invest 5 billion dollars in Anthropic and up to an additional 20 billion dollars in the future. Amazon said more than 100,000 customers run Anthropic Claude models on AWS. Amazon described Project Rainier as one of the largest AI compute clusters in the world. Amazon said Anthropic committed to spend more than 100 billion dollars over ten years on AWS technologies. Amazon said the collaboration includes Trainium2, Trainium3, Trainium4, and the ability to purchase future generations of Trainium. Amazon said Amazon Bedrock runs most inference on Trainium today. Amazon said AWS customers would be able to access the full Anthropic-native Claude console from within AWS. CNBC reported Amazon announced 13 billion dollars of fresh investment to expand AI and cloud infrastructure in India. CNBC reported this took Amazon total investment in India to 48 billion dollars between 2026 and 2030. CNBC reported the funds would be used to expand AWS data center capacity in Mumbai and Hyderabad. CNBC reported Amazon hopes to provide Indian startups, enterprises, and government organizations wit
+---CHUNK---
+chunk_id: C0111
+company: Apollo Hospitals
+type: fact
+source_id: APL-WEB-001
+date: 2026
+title: Press Release | Apollo Hospitals
+publisher: Apollo Hospitals
+url: https://www.apollohospitals.com/press-releases
+text:
+Apollo Hospitals announced that Anirudh Ravichander was chosen as brand ambassador for ProHealth by Apollo Hospitals.
+---CHUNK---
+chunk_id: C0112
+company: Apollo Hospitals
+type: fact
+source_id: APL-WEB-001
+date: 2026
+title: Press Release | Apollo Hospitals
+publisher: Apollo Hospitals
+url: https://www.apollohospitals.com/press-releases
+text:
+Apollo described ProHealth as an AI-powered, personalised, predictive, and preventive health program.
+---CHUNK---
+chunk_id: C0113
+company: Apollo Hospitals
+type: fact
+source_id: APL-WEB-001
+date: 2026
+title: Press Release | Apollo Hospitals
+publisher: Apollo Hospitals
+url: https://www.apollohospitals.com/press-releases
+text:
+Apollo said the national campaign aims to connect with younger audiences and encourage a preventive care mindset.
+---CHUNK---
+chunk_id: C0114
+company: Apollo Hospitals
+type: fact
+source_id: APL-WEB-001
+date: 2026
+title: Press Release | Apollo Hospitals
+publisher: Apollo Hospitals
+url: https://www.apollohospitals.com/press-releases
+text:
+Apollo Health of the Nation 2026 Report is cited as showing rising lifestyle risks including obesity, prehypertension, and early diabetes markers among young corporate professionals.
+---CHUNK---
+chunk_id: C0115
+company: Apollo Hospitals
+type: fact
+source_id: APL-WEB-001
+date: 2026
+title: Press Release | Apollo Hospitals
+publisher: Apollo Hospitals
+url: https://www.apollohospitals.com/press-releases
+text:
+Apollo said ProHealth reflects a shift from reactive illness management to proactive lifestyle ownership by putting predictive AI directly in users hands.
+---CHUNK---
+chunk_id: C0116
+company: Apollo Hospitals
+type: normal_summary
+source_id: APL-WEB-001
+date: 2026
+title: Press Release | Apollo Hospitals
+publisher: Apollo Hospitals
+url: https://www.apollohospitals.com/press-releases
+text:
+Apollo Hospitals source summary: Apollo Hospitals announced that Anirudh Ravichander was chosen as brand ambassador for ProHealth by Apollo Hospitals. Apollo described ProHealth as an AI-powered, personalised, predictive, and preventive health program. Apollo said the national campaign aims to connect with younger audiences and encourage a preventive care mindset. Apollo Health of the Nation 2026 Report is cited as showing rising lifestyle risks including obesity, prehypertension, and early diabetes markers among young corporate professionals. Apollo said ProHealth reflects a shift from reactive illness management to proactive lifestyle ownership by putting predictive AI directly in users hands.
+---CHUNK---
+chunk_id: C0117
+company: Apollo Hospitals
+type: qa
+source_id: APL-WEB-001
+date: 2026
+title: Press Release | Apollo Hospitals
+publisher: Apollo Hospitals
+url: https://www.apollohospitals.com/press-releases
+text:
+Question: What happened in this source?
+Answer: Apollo Hospitals announced that Anirudh Ravichander was chosen as brand ambassador for ProHealth by Apollo Hospitals. Apollo described ProHealth as an AI-powered, personalised, predictive, and preventive health program. Apollo said the national campaign aims to connect with younger audiences and encourage a preventive care mindset. Apollo Health of the Nation 2026 Report is cited as showing rising lifestyle risks including obesity, prehypertension, and early diabetes markers among young corporate professionals. Apollo said ProHealth reflects a shift from reactive illness management to proactive lifestyle ownership by putting predictive AI directly in users hands.
+---CHUNK---
+chunk_id: C0118
+company: Apollo Hospitals
+type: qa
+source_id: APL-WEB-001
+date: 2026
+title: Press Release | Apollo Hospitals
+publisher: Apollo Hospitals
+url: https://www.apollohospitals.com/press-releases
+text:
+Question: Why is this useful for RAG?
+Answer: This source gives dated, source-backed facts about Apollo Hospitals. It should be retrieved when a user asks about Apollo Hospitals strategy, AI activity, partnerships, investments, recognition, products, or 2026 updates.
+---CHUNK---
+chunk_id: C0119
+company: Apollo Hospitals
+type: qa
+source_id: APL-WEB-001
+date: 2026
+title: Press Release | Apollo Hospitals
+publisher: Apollo Hospitals
+url: https://www.apollohospitals.com/press-releases
+text:
+Question: What should the chatbot cite?
+Answer: Use source_id APL-WEB-001, title Press Release | Apollo Hospitals, date 2026, publisher Apollo Hospitals, and URL https://www.apollohospitals.com/press-releases.
+---CHUNK---
+chunk_id: C0120
+company: Apollo Hospitals
+type: fact
+source_id: APL-WEB-002
+date: 2026
+title: Digital Transformation and AI for Better Care
+publisher: Apollo Hospitals
+url: https://www.apollohospitals.com/digital-transformation-and-ai-better-care
+text:
+Apollo said it is advancing digital transformation across clinical, operational, and enterprise functions.
+---CHUNK---
+chunk_id: C0121
+company: Apollo Hospitals
+type: fact
+source_id: APL-WEB-002
+date: 2026
+title: Digital Transformation and AI for Better Care
+publisher: Apollo Hospitals
+url: https://www.apollohospitals.com/digital-transformation-and-ai-better-care
+text:
+Apollo said it is developing clinical AI solutions based on several decades of clinical data.
+---CHUNK---
+chunk_id: C0122
+company: Apollo Hospitals
+type: fact
+source_id: APL-WEB-002
+date: 2026
+title: Digital Transformation and AI for Better Care
+publisher: Apollo Hospitals
+url: https://www.apollohospitals.com/digital-transformation-and-ai-better-care
+text:
+Apollo said the solutions include risk scoring models that reduce hospitalisations, AI-driven decision support systems in critical care, and predictive tools that personalise treatment.
+---CHUNK---
+chunk_id: C0123
+company: Apollo Hospitals
+type: fact
+source_id: APL-WEB-002
+date: 2026
+title: Digital Transformation and AI for Better Care
+publisher: Apollo Hospitals
+url: https://www.apollohospitals.com/digital-transformation-and-ai-better-care
+text:
+Apollo said it created 12 advanced AI algorithms that predict risk for chronic conditions such as CKD, COPD, and liver fibrosis.
+---CHUNK---
+chunk_id: C0124
+company: Apollo Hospitals
+type: fact
+source_id: APL-WEB-002
+date: 2026
+title: Digital Transformation and AI for Better Care
+publisher: Apollo Hospitals
+url: https://www.apollohospitals.com/digital-transformation-and-ai-better-care
+text:
+Apollo said those models are integrated into health check programmes and have validated over 1.7 million patient records.
+---CHUNK---
+chunk_id: C0125
+company: Apollo Hospitals
+type: fact
+source_id: APL-WEB-002
+date: 2026
+title: Digital Transformation and AI for Better Care
+publisher: Apollo Hospitals
+url: https://www.apollohospitals.com/digital-transformation-and-ai-better-care
+text:
+Apollo said its AI tools meet ISO 13485, MDSAP, and GS1 standards.
+---CHUNK---
+chunk_id: C0126
+company: Apollo Hospitals
+type: fact
+source_id: APL-WEB-002
+date: 2026
+title: Digital Transformation and AI for Better Care
+publisher: Apollo Hospitals
+url: https://www.apollohospitals.com/digital-transformation-and-ai-better-care
+text:
+Apollo described a Doctors App that brings real-time critical information to clinicians.
+---CHUNK---
+chunk_id: C0127
+company: Apollo Hospitals
+type: fact
+source_id: APL-WEB-002
+date: 2026
+title: Digital Transformation and AI for Better Care
+publisher: Apollo Hospitals
+url: https://www.apollohospitals.com/digital-transformation-and-ai-better-care
+text:
+Apollo said three hospitals were certified at NABH Digital Accreditation Platinum level.
+---CHUNK---
+chunk_id: C0128
+company: Apollo Hospitals
+type: fact
+source_id: APL-WEB-002
+date: 2026
+title: Digital Transformation and AI for Better Care
+publisher: Apollo Hospitals
+url: https://www.apollohospitals.com/digital-transformation-and-ai-better-care
+text:
+Apollo said it completed full cloud migration of hospital operating platforms onto Microsoft Azure.
+---CHUNK---
+chunk_id: C0129
+company: Apollo Hospitals
+type: fact
+source_id: APL-WEB-002
+date: 2026
+title: Digital Transformation and AI for Better Care
+publisher: Apollo Hospitals
+url: https://www.apollohospitals.com/digital-transformation-and-ai-better-care
+text:
+Apollo said it upgraded Electronic Medical Records systems by improving usability, embedding AI-driven disease risk scoring, and enabling automated clinical summaries via Generative AI.
+---CHUNK---
+chunk_id: C0130
+company: Apollo Hospitals
+type: normal_summary
+source_id: APL-WEB-002
+date: 2026
+title: Digital Transformation and AI for Better Care
+publisher: Apollo Hospitals
+url: https://www.apollohospitals.com/digital-transformation-and-ai-better-care
+text:
+Apollo Hospitals source summary: Apollo said it is advancing digital transformation across clinical, operational, and enterprise functions. Apollo said it is developing clinical AI solutions based on several decades of clinical data. Apollo said the solutions include risk scoring models that reduce hospitalisations, AI-driven decision support systems in critical care, and predictive tools that personalise treatment. Apollo said it created 12 advanced AI algorithms that predict risk for chronic conditions such as CKD, COPD, and liver fibrosis. Apollo said those models are integrated into health check programmes and have validated over 1.7 million patient records. Apollo said its AI tools meet ISO 13485, MDSAP, and GS1 standards. Apollo described a Doctors App that brings real-time critical information to clinicians. Apollo said three hospitals were certified at NABH Digital Accreditation Platinum level. Apollo said it completed full cloud migration of hospital operating platforms onto Microsoft Azure. Apollo said it upgraded Electronic Medical Records systems by improving usability, embedding AI-driven disease risk scoring, and enabling automated clinical summaries via Generative AI.
+---CHUNK---
+chunk_id: C0131
+company: Apollo Hospitals
+type: qa
+source_id: APL-WEB-002
+date: 2026
+title: Digital Transformation and AI for Better Care
+publisher: Apollo Hospitals
+url: https://www.apollohospitals.com/digital-transformation-and-ai-better-care
+text:
+Question: What happened in this source?
+Answer: Apollo said it is advancing digital transformation across clinical, operational, and enterprise functions. Apollo said it is developing clinical AI solutions based on several decades of clinical data. Apollo said the solutions include risk scoring models that reduce hospitalisations, AI-driven decision support systems in critical care, and predictive tools that personalise treatment. Apollo said it created 12 advanced AI algorithms that predict risk for chronic conditions such as CKD, COPD, and liver fibrosis. Apollo said those models are integrated into health check programmes and have validated over 1.7 million patient records. Apollo said its AI tools meet ISO 13485, MDSAP, and GS1 standards. Apollo described a Doctors App that brings real-time critical information to clinicians. Apollo said three hospitals were certified at NABH Digital Accreditation Platinum level. Apollo said it completed full cloud migration of hospital operating platforms onto Microsoft Azure. Apollo said it upgraded Electronic Medical Records systems by improving usability, embedding AI-driven disease risk scoring, and enabling automated clinical summaries via Generative AI.
+---CHUNK---
+chunk_id: C0132
+company: Apollo Hospitals
+type: qa
+source_id: APL-WEB-002
+date: 2026
+title: Digital Transformation and AI for Better Care
+publisher: Apollo Hospitals
+url: https://www.apollohospitals.com/digital-transformation-and-ai-better-care
+text:
+Question: Why is this useful for RAG?
+Answer: This source gives dated, source-backed facts about Apollo Hospitals. It should be retrieved when a user asks about Apollo Hospitals strategy, AI activity, partnerships, investments, recognition, products, or 2026 updates.
+---CHUNK---
+chunk_id: C0133
+company: Apollo Hospitals
+type: qa
+source_id: APL-WEB-002
+date: 2026
+title: Digital Transformation and AI for Better Care
+publisher: Apollo Hospitals
+url: https://www.apollohospitals.com/digital-transformation-and-ai-better-care
+text:
+Question: What should the chatbot cite?
+Answer: Use source_id APL-WEB-002, title Digital Transformation and AI for Better Care, date 2026, publisher Apollo Hospitals, and URL https://www.apollohospitals.com/digital-transformation-and-ai-better-care.
+---CHUNK---
+chunk_id: C0134
+company: Apollo Hospitals
+type: fact
+source_id: APL-WEB-003
+date: 2026-04-29
+title: Apollo Hospitals launches 400-bed smart hospital in Hyderabad
+publisher: ET HealthWorld
+url: https://health.economictimes.indiatimes.com/news/hospitals/apollo-hospitals-launches-400-bed-smart-hospital-in-hyderabad-expands-national-network-to-76/130603271
+text:
+ET HealthWorld reported Apollo Hospitals launched a 400-bed next-generation smart hospital in Hyderabad.
+---CHUNK---
+chunk_id: C0135
+company: Apollo Hospitals
+type: fact
+source_id: APL-WEB-003
+date: 2026-04-29
+title: Apollo Hospitals launches 400-bed smart hospital in Hyderabad
+publisher: ET HealthWorld
+url: https://health.economictimes.indiatimes.com/news/hospitals/apollo-hospitals-launches-400-bed-smart-hospital-in-hyderabad-expands-national-network-to-76/130603271
+text:
+The report said the launch expanded Apollo Hospitals national network to 76 hospitals.
+---CHUNK---
+chunk_id: C0136
+company: Apollo Hospitals
+type: fact
+source_id: APL-WEB-003
+date: 2026-04-29
+title: Apollo Hospitals launches 400-bed smart hospital in Hyderabad
+publisher: ET HealthWorld
+url: https://health.economictimes.indiatimes.com/news/hospitals/apollo-hospitals-launches-400-bed-smart-hospital-in-hyderabad-expands-national-network-to-76/130603271
+text:
+The report described the hospital as combining AI-enabled systems, real-time clinical connectivity, and advanced diagnostics.
+---CHUNK---
+chunk_id: C0137
+company: Apollo Hospitals
+type: fact
+source_id: APL-WEB-003
+date: 2026-04-29
+title: Apollo Hospitals launches 400-bed smart hospital in Hyderabad
+publisher: ET HealthWorld
+url: https://health.economictimes.indiatimes.com/news/hospitals/apollo-hospitals-launches-400-bed-smart-hospital-in-hyderabad-expands-national-network-to-76/130603271
+text:
+The report said the facility includes advanced ICU infrastructure with dedicated nursing care at each bed.
+---CHUNK---
+chunk_id: C0138
+company: Apollo Hospitals
+type: fact
+source_id: APL-WEB-003
+date: 2026-04-29
+title: Apollo Hospitals launches 400-bed smart hospital in Hyderabad
+publisher: ET HealthWorld
+url: https://health.economictimes.indiatimes.com/news/hospitals/apollo-hospitals-launches-400-bed-smart-hospital-in-hyderabad-expands-national-network-to-76/130603271
+text:
+The report said Apollo planned 10,000 free health screening check-ups for residents of the Nanakramguda area every Sunday.
+---CHUNK---
+chunk_id: C0139
+company: Apollo Hospitals
+type: normal_summary
+source_id: APL-WEB-003
+date: 2026-04-29
+title: Apollo Hospitals launches 400-bed smart hospital in Hyderabad
+publisher: ET HealthWorld
+url: https://health.economictimes.indiatimes.com/news/hospitals/apollo-hospitals-launches-400-bed-smart-hospital-in-hyderabad-expands-national-network-to-76/130603271
+text:
+Apollo Hospitals source summary: ET HealthWorld reported Apollo Hospitals launched a 400-bed next-generation smart hospital in Hyderabad. The report said the launch expanded Apollo Hospitals national network to 76 hospitals. The report described the hospital as combining AI-enabled systems, real-time clinical connectivity, and advanced diagnostics. The report said the facility includes advanced ICU infrastructure with dedicated nursing care at each bed. The report said Apollo planned 10,000 free health screening check-ups for residents of the Nanakramguda area every Sunday.
+---CHUNK---
+chunk_id: C0140
+company: Apollo Hospitals
+type: qa
+source_id: APL-WEB-003
+date: 2026-04-29
+title: Apollo Hospitals launches 400-bed smart hospital in Hyderabad
+publisher: ET HealthWorld
+url: https://health.economictimes.indiatimes.com/news/hospitals/apollo-hospitals-launches-400-bed-smart-hospital-in-hyderabad-expands-national-network-to-76/130603271
+text:
+Question: What happened in this source?
+Answer: ET HealthWorld reported Apollo Hospitals launched a 400-bed next-generation smart hospital in Hyderabad. The report said the launch expanded Apollo Hospitals national network to 76 hospitals. The report described the hospital as combining AI-enabled systems, real-time clinical connectivity, and advanced diagnostics. The report said the facility includes advanced ICU infrastructure with dedicated nursing care at each bed. The report said Apollo planned 10,000 free health screening check-ups for residents of the Nanakramguda area every Sunday.
+---CHUNK---
+chunk_id: C0141
+company: Apollo Hospitals
+type: qa
+source_id: APL-WEB-003
+date: 2026-04-29
+title: Apollo Hospitals launches 400-bed smart hospital in Hyderabad
+publisher: ET HealthWorld
+url: https://health.economictimes.indiatimes.com/news/hospitals/apollo-hospitals-launches-400-bed-smart-hospital-in-hyderabad-expands-national-network-to-76/130603271
+text:
+Question: Why is this useful for RAG?
+Answer: This source gives dated, source-backed facts about Apollo Hospitals. It should be retrieved when a user asks about Apollo Hospitals strategy, AI activity, partnerships, investments, recognition, products, or 2026 updates.
+---CHUNK---
+chunk_id: C0142
+company: Apollo Hospitals
+type: qa
+source_id: APL-WEB-003
+date: 2026-04-29
+title: Apollo Hospitals launches 400-bed smart hospital in Hyderabad
+publisher: ET HealthWorld
+url: https://health.economictimes.indiatimes.com/news/hospitals/apollo-hospitals-launches-400-bed-smart-hospital-in-hyderabad-expands-national-network-to-76/130603271
+text:
+Question: What should the chatbot cite?
+Answer: Use source_id APL-WEB-003, title Apollo Hospitals launches 400-bed smart hospital in Hyderabad, date 2026-04-29, publisher ET HealthWorld, and URL https://health.economictimes.indiatimes.com/news/hospitals/apollo-hospitals-launches-400-bed-smart-hospital-in-hyderabad-expands-national-network-to-76/130603271.
+---CHUNK---
+chunk_id: C0143
+company: Apollo Hospitals
+type: fact
+source_id: APL-WEB-004
+date: 2026-07-09
+title: Apollo Hospitals PR Newswire page
+publisher: PR Newswire
+url: https://www.prnewswire.com/news/apollo-hospitals/
+text:
+PR Newswire listed a July 9, 2026 Apollo Hospitals item about Northeast India first LAA closure in Guwahati.
+---CHUNK---
+chunk_id: C0144
+company: Apollo Hospitals
+type: fact
+source_id: APL-WEB-004
+date: 2026-07-09
+title: Apollo Hospitals PR Newswire page
+publisher: PR Newswire
+url: https://www.prnewswire.com/news/apollo-hospitals/
+text:
+PR Newswire listed a June 30, 2026 item saying Apollo Hospitals Bangalore became first in India to receive dual American Heart Association certification for stroke and chest pain care.
+---CHUNK---
+chunk_id: C0145
+company: Apollo Hospitals
+type: fact
+source_id: APL-WEB-004
+date: 2026-07-09
+title: Apollo Hospitals PR Newswire page
+publisher: PR Newswire
+url: https://www.prnewswire.com/news/apollo-hospitals/
+text:
+PR Newswire listed a May 29, 2026 item saying Apollo Hospitals Chennai performed a robotic cancer surgery for lymph node removal using Hugo RAS Platform via lateral approach.
+---CHUNK---
+chunk_id: C0146
+company: Apollo Hospitals
+type: fact
+source_id: APL-WEB-004
+date: 2026-07-09
+title: Apollo Hospitals PR Newswire page
+publisher: PR Newswire
+url: https://www.prnewswire.com/news/apollo-hospitals/
+text:
+PR Newswire listed a May 13, 2026 item about Apollo Hospitals bringing advanced super speciality care to Mumbai with a new centre in Dadar.
+---CHUNK---
+chunk_id: C0147
+company: Apollo Hospitals
+type: normal_summary
+source_id: APL-WEB-004
+date: 2026-07-09
+title: Apollo Hospitals PR Newswire page
+publisher: PR Newswire
+url: https://www.prnewswire.com/news/apollo-hospitals/
+text:
+Apollo Hospitals source summary: PR Newswire listed a July 9, 2026 Apollo Hospitals item about Northeast India first LAA closure in Guwahati. PR Newswire listed a June 30, 2026 item saying Apollo Hospitals Bangalore became first in India to receive dual American Heart Association certification for stroke and chest pain care. PR Newswire listed a May 29, 2026 item saying Apollo Hospitals Chennai performed a robotic cancer surgery for lymph node removal using Hugo RAS Platform via lateral approach. PR Newswire listed a May 13, 2026 item about Apollo Hospitals bringing advanced super speciality care to Mumbai with a new centre in Dadar.
+---CHUNK---
+chunk_id: C0148
+company: Apollo Hospitals
+type: qa
+source_id: APL-WEB-004
+date: 2026-07-09
+title: Apollo Hospitals PR Newswire page
+publisher: PR Newswire
+url: https://www.prnewswire.com/news/apollo-hospitals/
+text:
+Question: What happened in this source?
+Answer: PR Newswire listed a July 9, 2026 Apollo Hospitals item about Northeast India first LAA closure in Guwahati. PR Newswire listed a June 30, 2026 item saying Apollo Hospitals Bangalore became first in India to receive dual American Heart Association certification for stroke and chest pain care. PR Newswire listed a May 29, 2026 item saying Apollo Hospitals Chennai performed a robotic cancer surgery for lymph node removal using Hugo RAS Platform via lateral approach. PR Newswire listed a May 13, 2026 item about Apollo Hospitals bringing advanced super speciality care to Mumbai with a new centre in Dadar.
+---CHUNK---
+chunk_id: C0149
+company: Apollo Hospitals
+type: qa
+source_id: APL-WEB-004
+date: 2026-07-09
+title: Apollo Hospitals PR Newswire page
+publisher: PR Newswire
+url: https://www.prnewswire.com/news/apollo-hospitals/
+text:
+Question: Why is this useful for RAG?
+Answer: This source gives dated, source-backed facts about Apollo Hospitals. It should be retrieved when a user asks about Apollo Hospitals strategy, AI activity, partnerships, investments, recognition, products, or 2026 updates.
+---CHUNK---
+chunk_id: C0150
+company: Apollo Hospitals
+type: qa
+source_id: APL-WEB-004
+date: 2026-07-09
+title: Apollo Hospitals PR Newswire page
+publisher: PR Newswire
+url: https://www.prnewswire.com/news/apollo-hospitals/
+text:
+Question: What should the chatbot cite?
+Answer: Use source_id APL-WEB-004, title Apollo Hospitals PR Newswire page, date 2026-07-09, publisher PR Newswire, and URL https://www.prnewswire.com/news/apollo-hospitals/.
+---CHUNK---
+chunk_id: C0151
+company: Apollo Hospitals
+type: company_profile
+source_id: MULTI
+date: 2026-07-10 11:41 IST
+title: Apollo Hospitals combined RAG profile
+publisher: Generated from listed sources
+url: see source records
+text:
+Apollo Hospitals combined profile: Apollo Hospitals source material in this dataset focuses on press releases, digital transformation, AI-enabled healthcare, clinical AI, hospital technology, smart hospitals, and preventive health. Key source-backed facts: Apollo Hospitals announced that Anirudh Ravichander was chosen as brand ambassador for ProHealth by Apollo Hospitals. Apollo described ProHealth as an AI-powered, personalised, predictive, and preventive health program. Apollo said the national campaign aims to connect with younger audiences and encourage a preventive care mindset. Apollo Health of the Nation 2026 Report is cited as showing rising lifestyle risks including obesity, prehypertension, and early diabetes markers among young corporate professionals. Apollo said ProHealth reflects a shift from reactive illness management to proactive lifestyle ownership by putting predictive AI directly in users hands. Apollo said it is advancing digital transformation across clinical, operational, and enterprise functions. Apollo said it is developing clinical AI solutions based on several decades of clinical data. Apollo said the solutions include risk scoring models that reduce hospitalisations, AI-driven decision support systems in critical care, and predictive tools that personalise treatment. Apollo said it created 12 advanced AI algorithms that predict risk for chronic conditions such as CKD, COPD, and liver fibrosis. Apollo said those models are integrated into health check programmes and have validated over 1.7 million patient records. Apollo said its AI tools meet ISO 13485, MDSAP, and GS1 standards. Apollo described a Doctors App that brings real-time critical information to clinicians. Apollo said three hospitals were certified at NABH Digital Accreditation Platinum level. Apollo said it completed full cloud migration of hospital operating platforms onto Microsoft Azure. Apollo said it upgraded Electronic Medical Records systems by improving usability, embedding AI-driven disease risk scoring, and enabling automated clinical summaries via Generative AI. ET HealthWorld reported Apollo Hospitals launched a 400-bed next-generation smart hospital in Hyderabad. The report said the launch expanded Apollo Hospitals national network to 76 hospitals. The report described the hospital as combining AI-enabled systems, real-time clinical connectivity, and advanced diagnostics. The report said the facility includes adv
+---CHUNK---
+chunk_id: C0152
+company: Microsoft
+type: fact
+source_id: MSF-WEB-001
+date: 2026-07-06
+title: The Official Microsoft Blog
+publisher: Microsoft
+url: https://blogs.microsoft.com/
+text:
+The Official Microsoft Blog featured The latest in our company transformation on July 6, 2026.
+---CHUNK---
+chunk_id: C0153
+company: Microsoft
+type: fact
+source_id: MSF-WEB-001
+date: 2026-07-06
+title: The Official Microsoft Blog
+publisher: Microsoft
+url: https://blogs.microsoft.com/
+text:
+The blog featured Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence on July 2, 2026.
+---CHUNK---
+chunk_id: C0154
+company: Microsoft
+type: fact
+source_id: MSF-WEB-001
+date: 2026-07-06
+title: The Official Microsoft Blog
+publisher: Microsoft
+url: https://blogs.microsoft.com/
+text:
+The blog featured Inside Microsoft two-decade push to cut water intensity while scaling for growth on June 24, 2026.
+---CHUNK---
+chunk_id: C0155
+company: Microsoft
+type: fact
+source_id: MSF-WEB-001
+date: 2026-07-06
+title: The Official Microsoft Blog
+publisher: Microsoft
+url: https://blogs.microsoft.com/
+text:
+The blog featured Rethinking cloud operations with agentic observability on June 23, 2026.
+---CHUNK---
+chunk_id: C0156
+company: Microsoft
+type: fact
+source_id: MSF-WEB-001
+date: 2026-07-06
+title: The Official Microsoft Blog
+publisher: Microsoft
+url: https://blogs.microsoft.com/
+text:
+The blog featured Powering the next wave of AI: Expanding capacity with our new datacenter in Pecos on June 22, 2026.
+---CHUNK---
+chunk_id: C0157
+company: Microsoft
+type: fact
+source_id: MSF-WEB-001
+date: 2026-07-06
+title: The Official Microsoft Blog
+publisher: Microsoft
+url: https://blogs.microsoft.com/
+text:
+The blog featured Achieving success with AI on June 16, 2026.
+---CHUNK---
+chunk_id: C0158
+company: Microsoft
+type: fact
+source_id: MSF-WEB-001
+date: 2026-07-06
+title: The Official Microsoft Blog
+publisher: Microsoft
+url: https://blogs.microsoft.com/
+text:
+The blog listed Microsoft Build 2026: Be yourself at work on June 2, 2026.
+---CHUNK---
+chunk_id: C0159
+company: Microsoft
+type: normal_summary
+source_id: MSF-WEB-001
+date: 2026-07-06
+title: The Official Microsoft Blog
+publisher: Microsoft
+url: https://blogs.microsoft.com/
+text:
+Microsoft source summary: The Official Microsoft Blog featured The latest in our company transformation on July 6, 2026. The blog featured Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence on July 2, 2026. The blog featured Inside Microsoft two-decade push to cut water intensity while scaling for growth on June 24, 2026. The blog featured Rethinking cloud operations with agentic observability on June 23, 2026. The blog featured Powering the next wave of AI: Expanding capacity with our new datacenter in Pecos on June 22, 2026. The blog featured Achieving success with AI on June 16, 2026. The blog listed Microsoft Build 2026: Be yourself at work on June 2, 2026.
+---CHUNK---
+chunk_id: C0160
+company: Microsoft
+type: qa
+source_id: MSF-WEB-001
+date: 2026-07-06
+title: The Official Microsoft Blog
+publisher: Microsoft
+url: https://blogs.microsoft.com/
+text:
+Question: What happened in this source?
+Answer: The Official Microsoft Blog featured The latest in our company transformation on July 6, 2026. The blog featured Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence on July 2, 2026. The blog featured Inside Microsoft two-decade push to cut water intensity while scaling for growth on June 24, 2026. The blog featured Rethinking cloud operations with agentic observability on June 23, 2026. The blog featured Powering the next wave of AI: Expanding capacity with our new datacenter in Pecos on June 22, 2026. The blog featured Achieving success with AI on June 16, 2026. The blog listed Microsoft Build 2026: Be yourself at work on June 2, 2026.
+---CHUNK---
+chunk_id: C0161
+company: Microsoft
+type: qa
+source_id: MSF-WEB-001
+date: 2026-07-06
+title: The Official Microsoft Blog
+publisher: Microsoft
+url: https://blogs.microsoft.com/
+text:
+Question: Why is this useful for RAG?
+Answer: This source gives dated, source-backed facts about Microsoft. It should be retrieved when a user asks about Microsoft strategy, AI activity, partnerships, investments, recognition, products, or 2026 updates.
+---CHUNK---
+chunk_id: C0162
+company: Microsoft
+type: qa
+source_id: MSF-WEB-001
+date: 2026-07-06
+title: The Official Microsoft Blog
+publisher: Microsoft
+url: https://blogs.microsoft.com/
+text:
+Question: What should the chatbot cite?
+Answer: Use source_id MSF-WEB-001, title The Official Microsoft Blog, date 2026-07-06, publisher Microsoft, and URL https://blogs.microsoft.com/.
+---CHUNK---
+chunk_id: C0163
+company: Microsoft
+type: fact
+source_id: MSF-WEB-002
+date: 2026-07-02
+title: Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence
+publisher: Microsoft Official Blog
+url: https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/
+text:
+Microsoft introduced Microsoft Frontier Company as a new operating business focused on Frontier Transformation through AI for customers around the world.
+---CHUNK---
+chunk_id: C0164
+company: Microsoft
+type: fact
+source_id: MSF-WEB-002
+date: 2026-07-02
+title: Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence
+publisher: Microsoft Official Blog
+url: https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/
+text:
+Microsoft said the organization provides deep industry knowledge, change management and continuous improvement experience, and enterprise-grade AI engineering expertise.
+---CHUNK---
+chunk_id: C0165
+company: Microsoft
+type: fact
+source_id: MSF-WEB-002
+date: 2026-07-02
+title: Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence
+publisher: Microsoft Official Blog
+url: https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/
+text:
+Microsoft described Microsoft Frontier Company as going beyond forward deployed engineering and as an outcome-driven engineering organization.
+---CHUNK---
+chunk_id: C0166
+company: Microsoft
+type: fact
+source_id: MSF-WEB-002
+date: 2026-07-02
+title: Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence
+publisher: Microsoft Official Blog
+url: https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/
+text:
+Microsoft announced a 2.5 billion dollar investment in Microsoft Frontier Company.
+---CHUNK---
+chunk_id: C0167
+company: Microsoft
+type: fact
+source_id: MSF-WEB-002
+date: 2026-07-02
+title: Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence
+publisher: Microsoft Official Blog
+url: https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/
+text:
+Microsoft said it would embed 6,000 industry and engineering experts at customers to co-design, co-innovate, deploy, and continuously improve AI systems at scale.
+---CHUNK---
+chunk_id: C0168
+company: Microsoft
+type: fact
+source_id: MSF-WEB-002
+date: 2026-07-02
+title: Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence
+publisher: Microsoft Official Blog
+url: https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/
+text:
+Microsoft emphasized Intelligence plus Trust as two important components of AI solutions.
+---CHUNK---
+chunk_id: C0169
+company: Microsoft
+type: fact
+source_id: MSF-WEB-002
+date: 2026-07-02
+title: Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence
+publisher: Microsoft Official Blog
+url: https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/
+text:
+Microsoft said companies need an intelligence platform so proprietary data, expertise, workflows, and decision-making processes compound over time from within.
+---CHUNK---
+chunk_id: C0170
+company: Microsoft
+type: fact
+source_id: MSF-WEB-002
+date: 2026-07-02
+title: Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence
+publisher: Microsoft Official Blog
+url: https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/
+text:
+Microsoft said companies need a trusted platform to observe, govern, manage, and secure AI solutions across every layer of the technology stack.
+---CHUNK---
+chunk_id: C0171
+company: Microsoft
+type: fact
+source_id: MSF-WEB-002
+date: 2026-07-02
+title: Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence
+publisher: Microsoft Official Blog
+url: https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/
+text:
+Microsoft said customer data, IP, and competitive advantage are protected and not used to train models in ways that commoditize what differentiates them.
+---CHUNK---
+chunk_id: C0172
+company: Microsoft
+type: fact
+source_id: MSF-WEB-002
+date: 2026-07-02
+title: Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence
+publisher: Microsoft Official Blog
+url: https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/
+text:
+Microsoft said customers should not be locked into a single model and mentioned flexibility across OpenAI, Anthropic, Microsoft AI, open source, and specialized industry models.
+---CHUNK---
+chunk_id: C0173
+company: Microsoft
+type: fact
+source_id: MSF-WEB-002
+date: 2026-07-02
+title: Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence
+publisher: Microsoft Official Blog
+url: https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/
+text:
+Microsoft said Rodrigo Kede Lima would be President of Microsoft Frontier Company.
+---CHUNK---
+chunk_id: C0174
+company: Microsoft
+type: normal_summary
+source_id: MSF-WEB-002
+date: 2026-07-02
+title: Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence
+publisher: Microsoft Official Blog
+url: https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/
+text:
+Microsoft source summary: Microsoft introduced Microsoft Frontier Company as a new operating business focused on Frontier Transformation through AI for customers around the world. Microsoft said the organization provides deep industry knowledge, change management and continuous improvement experience, and enterprise-grade AI engineering expertise. Microsoft described Microsoft Frontier Company as going beyond forward deployed engineering and as an outcome-driven engineering organization. Microsoft announced a 2.5 billion dollar investment in Microsoft Frontier Company. Microsoft said it would embed 6,000 industry and engineering experts at customers to co-design, co-innovate, deploy, and continuously improve AI systems at scale. Microsoft emphasized Intelligence plus Trust as two important components of AI solutions. Microsoft said companies need an intelligence platform so proprietary data, expertise, workflows, and decision-making processes compound over time from within. Microsoft said companies need a trusted platform to observe, govern, manage, and secure AI solutions across every layer of the technology stack. Microsoft said customer data, IP, and competitive advantage are protected and not used to train models in ways that commoditize what differentiates them. Microsoft said customers should not be locked into a single model and mentioned flexibility across OpenAI, Anthropic, Microsoft AI, open source, and specialized industry models. Microsoft said Rodrigo Kede Lima would be President of Microsoft Frontier Company.
+---CHUNK---
+chunk_id: C0175
+company: Microsoft
+type: qa
+source_id: MSF-WEB-002
+date: 2026-07-02
+title: Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence
+publisher: Microsoft Official Blog
+url: https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/
+text:
+Question: What happened in this source?
+Answer: Microsoft introduced Microsoft Frontier Company as a new operating business focused on Frontier Transformation through AI for customers around the world. Microsoft said the organization provides deep industry knowledge, change management and continuous improvement experience, and enterprise-grade AI engineering expertise. Microsoft described Microsoft Frontier Company as going beyond forward deployed engineering and as an outcome-driven engineering organization. Microsoft announced a 2.5 billion dollar investment in Microsoft Frontier Company. Microsoft said it would embed 6,000 industry and engineering experts at customers to co-design, co-innovate, deploy, and continuously improve AI systems at scale. Microsoft emphasized Intelligence plus Trust as two important components of AI solutions. Microsoft said companies need an intelligence platform so proprietary data, expertise, workflows, and decision-making processes compound over time from within. Microsoft said companies need a trusted platform to observe, govern, manage, and secure AI solutions across every layer of the technology stack. Microsoft said customer data, IP, and competitive advantage are protected and not used to train models in ways that commoditize what differentiates them. Microsoft said customers should not be
+---CHUNK---
+chunk_id: C0176
+company: Microsoft
+type: qa
+source_id: MSF-WEB-002
+date: 2026-07-02
+title: Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence
+publisher: Microsoft Official Blog
+url: https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/
+text:
+Question: Why is this useful for RAG?
+Answer: This source gives dated, source-backed facts about Microsoft. It should be retrieved when a user asks about Microsoft strategy, AI activity, partnerships, investments, recognition, products, or 2026 updates.
+---CHUNK---
+chunk_id: C0177
+company: Microsoft
+type: qa
+source_id: MSF-WEB-002
+date: 2026-07-02
+title: Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence
+publisher: Microsoft Official Blog
+url: https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/
+text:
+Question: What should the chatbot cite?
+Answer: Use source_id MSF-WEB-002, title Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence, date 2026-07-02, publisher Microsoft Official Blog, and URL https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/.
+---CHUNK---
+chunk_id: C0178
+company: Microsoft
+type: fact
+source_id: MSF-WEB-003
+date: 2026-06-02
+title: Microsoft Build 2026: Empowering our developers to adopt agentic AI at Microsoft
+publisher: Microsoft Inside Track
+url: https://www.microsoft.com/insidetrack/blog/microsoft-build-2026-empowering-our-developers-to-adopt-agentic-ai-at-microsoft/
+text:
+Microsoft Digital described using Microsoft Build 2026 to share how developers are enabled to build with agentic AI.
+---CHUNK---
+chunk_id: C0179
+company: Microsoft
+type: fact
+source_id: MSF-WEB-003
+date: 2026-06-02
+title: Microsoft Build 2026: Empowering our developers to adopt agentic AI at Microsoft
+publisher: Microsoft Inside Track
+url: https://www.microsoft.com/insidetrack/blog/microsoft-build-2026-empowering-our-developers-to-adopt-agentic-ai-at-microsoft/
+text:
+Microsoft Digital said its journey to agentic AI evolved from early experimentation in AI-powered productivity toward coordinated enablement of scalable solutions.
+---CHUNK---
+chunk_id: C0180
+company: Microsoft
+type: fact
+source_id: MSF-WEB-003
+date: 2026-06-02
+title: Microsoft Build 2026: Empowering our developers to adopt agentic AI at Microsoft
+publisher: Microsoft Inside Track
+url: https://www.microsoft.com/insidetrack/blog/microsoft-build-2026-empowering-our-developers-to-adopt-agentic-ai-at-microsoft/
+text:
+Microsoft Digital said the goal is empowering developers to build intelligent agents that automate workflows, streamline operations, and create business value.
+---CHUNK---
+chunk_id: C0181
+company: Microsoft
+type: fact
+source_id: MSF-WEB-003
+date: 2026-06-02
+title: Microsoft Build 2026: Empowering our developers to adopt agentic AI at Microsoft
+publisher: Microsoft Inside Track
+url: https://www.microsoft.com/insidetrack/blog/microsoft-build-2026-empowering-our-developers-to-adopt-agentic-ai-at-microsoft/
+text:
+Microsoft Digital said the shift required rethinking development, governance, and scale.
+---CHUNK---
+chunk_id: C0182
+company: Microsoft
+type: fact
+source_id: MSF-WEB-003
+date: 2026-06-02
+title: Microsoft Build 2026: Empowering our developers to adopt agentic AI at Microsoft
+publisher: Microsoft Inside Track
+url: https://www.microsoft.com/insidetrack/blog/microsoft-build-2026-empowering-our-developers-to-adopt-agentic-ai-at-microsoft/
+text:
+Microsoft Digital described itself as Customer Zero at Microsoft for deploying and using technologies later sold to customers.
+---CHUNK---
+chunk_id: C0183
+company: Microsoft
+type: normal_summary
+source_id: MSF-WEB-003
+date: 2026-06-02
+title: Microsoft Build 2026: Empowering our developers to adopt agentic AI at Microsoft
+publisher: Microsoft Inside Track
+url: https://www.microsoft.com/insidetrack/blog/microsoft-build-2026-empowering-our-developers-to-adopt-agentic-ai-at-microsoft/
+text:
+Microsoft source summary: Microsoft Digital described using Microsoft Build 2026 to share how developers are enabled to build with agentic AI. Microsoft Digital said its journey to agentic AI evolved from early experimentation in AI-powered productivity toward coordinated enablement of scalable solutions. Microsoft Digital said the goal is empowering developers to build intelligent agents that automate workflows, streamline operations, and create business value. Microsoft Digital said the shift required rethinking development, governance, and scale. Microsoft Digital described itself as Customer Zero at Microsoft for deploying and using technologies later sold to customers.
+---CHUNK---
+chunk_id: C0184
+company: Microsoft
+type: qa
+source_id: MSF-WEB-003
+date: 2026-06-02
+title: Microsoft Build 2026: Empowering our developers to adopt agentic AI at Microsoft
+publisher: Microsoft Inside Track
+url: https://www.microsoft.com/insidetrack/blog/microsoft-build-2026-empowering-our-developers-to-adopt-agentic-ai-at-microsoft/
+text:
+Question: What happened in this source?
+Answer: Microsoft Digital described using Microsoft Build 2026 to share how developers are enabled to build with agentic AI. Microsoft Digital said its journey to agentic AI evolved from early experimentation in AI-powered productivity toward coordinated enablement of scalable solutions. Microsoft Digital said the goal is empowering developers to build intelligent agents that automate workflows, streamline operations, and create business value. Microsoft Digital said the shift required rethinking development, governance, and scale. Microsoft Digital described itself as Customer Zero at Microsoft for deploying and using technologies later sold to customers.
+---CHUNK---
+chunk_id: C0185
+company: Microsoft
+type: qa
+source_id: MSF-WEB-003
+date: 2026-06-02
+title: Microsoft Build 2026: Empowering our developers to adopt agentic AI at Microsoft
+publisher: Microsoft Inside Track
+url: https://www.microsoft.com/insidetrack/blog/microsoft-build-2026-empowering-our-developers-to-adopt-agentic-ai-at-microsoft/
+text:
+Question: Why is this useful for RAG?
+Answer: This source gives dated, source-backed facts about Microsoft. It should be retrieved when a user asks about Microsoft strategy, AI activity, partnerships, investments, recognition, products, or 2026 updates.
+---CHUNK---
+chunk_id: C0186
+company: Microsoft
+type: qa
+source_id: MSF-WEB-003
+date: 2026-06-02
+title: Microsoft Build 2026: Empowering our developers to adopt agentic AI at Microsoft
+publisher: Microsoft Inside Track
+url: https://www.microsoft.com/insidetrack/blog/microsoft-build-2026-empowering-our-developers-to-adopt-agentic-ai-at-microsoft/
+text:
+Question: What should the chatbot cite?
+Answer: Use source_id MSF-WEB-003, title Microsoft Build 2026: Empowering our developers to adopt agentic AI at Microsoft, date 2026-06-02, publisher Microsoft Inside Track, and URL https://www.microsoft.com/insidetrack/blog/microsoft-build-2026-empowering-our-developers-to-adopt-agentic-ai-at-microsoft/.
+---CHUNK---
+chunk_id: C0187
+company: Microsoft
+type: fact
+source_id: MSF-WEB-004
+date: 2026-06-02
+title: Build 2026: Furthering Windows as the trusted platform for development
+publisher: Windows Developer Blog
+url: https://blogs.windows.com/windowsdeveloper/2026/06/02/build-2026-furthering-windows-as-the-trusted-platform-for-development/
+text:
+Microsoft said Build 2026 highlighted Windows as a platform that supports development across local, cloud, platforms, languages, and frameworks.
+---CHUNK---
+chunk_id: C0188
+company: Microsoft
+type: fact
+source_id: MSF-WEB-004
+date: 2026-06-02
+title: Build 2026: Furthering Windows as the trusted platform for development
+publisher: Windows Developer Blog
+url: https://blogs.windows.com/windowsdeveloper/2026/06/02/build-2026-furthering-windows-as-the-trusted-platform-for-development/
+text:
+The blog said Microsoft is investing in enabling AI workloads to run securely on-device, in the cloud, or across both.
+---CHUNK---
+chunk_id: C0189
+company: Microsoft
+type: fact
+source_id: MSF-WEB-004
+date: 2026-06-02
+title: Build 2026: Furthering Windows as the trusted platform for development
+publisher: Windows Developer Blog
+url: https://blogs.windows.com/windowsdeveloper/2026/06/02/build-2026-furthering-windows-as-the-trusted-platform-for-development/
+text:
+The blog listed Coreutils for Windows as generally available.
+---CHUNK---
+chunk_id: C0190
+company: Microsoft
+type: fact
+source_id: MSF-WEB-004
+date: 2026-06-02
+title: Build 2026: Furthering Windows as the trusted platform for development
+publisher: Windows Developer Blog
+url: https://blogs.windows.com/windowsdeveloper/2026/06/02/build-2026-furthering-windows-as-the-trusted-platform-for-development/
+text:
+The blog listed WSL containers as coming soon to public preview.
+---CHUNK---
+chunk_id: C0191
+company: Microsoft
+type: fact
+source_id: MSF-WEB-004
+date: 2026-06-02
+title: Build 2026: Furthering Windows as the trusted platform for development
+publisher: Windows Developer Blog
+url: https://blogs.windows.com/windowsdeveloper/2026/06/02/build-2026-furthering-windows-as-the-trusted-platform-for-development/
+text:
+The blog listed Windows Development Skills as generally available.
+---CHUNK---
+chunk_id: C0192
+company: Microsoft
+type: fact
+source_id: MSF-WEB-004
+date: 2026-06-02
+title: Build 2026: Furthering Windows as the trusted platform for development
+publisher: Windows Developer Blog
+url: https://blogs.windows.com/windowsdeveloper/2026/06/02/build-2026-furthering-windows-as-the-trusted-platform-for-development/
+text:
+The blog listed Intelligent Terminal as available in experimental preview.
+---CHUNK---
+chunk_id: C0193
+company: Microsoft
+type: fact
+source_id: MSF-WEB-004
+date: 2026-06-02
+title: Build 2026: Furthering Windows as the trusted platform for development
+publisher: Windows Developer Blog
+url: https://blogs.windows.com/windowsdeveloper/2026/06/02/build-2026-furthering-windows-as-the-trusted-platform-for-development/
+text:
+The blog listed Windows Developer Configurations powered by WinGet as generally available.
+---CHUNK---
+chunk_id: C0194
+company: Microsoft
+type: fact
+source_id: MSF-WEB-004
+date: 2026-06-02
+title: Build 2026: Furthering Windows as the trusted platform for development
+publisher: Windows Developer Blog
+url: https://blogs.windows.com/windowsdeveloper/2026/06/02/build-2026-furthering-windows-as-the-trusted-platform-for-development/
+text:
+The blog listed Windows 365 with Developer configuration as available in public preview.
+---CHUNK---
+chunk_id: C0195
+company: Microsoft
+type: normal_summary
+source_id: MSF-WEB-004
+date: 2026-06-02
+title: Build 2026: Furthering Windows as the trusted platform for development
+publisher: Windows Developer Blog
+url: https://blogs.windows.com/windowsdeveloper/2026/06/02/build-2026-furthering-windows-as-the-trusted-platform-for-development/
+text:
+Microsoft source summary: Microsoft said Build 2026 highlighted Windows as a platform that supports development across local, cloud, platforms, languages, and frameworks. The blog said Microsoft is investing in enabling AI workloads to run securely on-device, in the cloud, or across both. The blog listed Coreutils for Windows as generally available. The blog listed WSL containers as coming soon to public preview. The blog listed Windows Development Skills as generally available. The blog listed Intelligent Terminal as available in experimental preview. The blog listed Windows Developer Configurations powered by WinGet as generally available. The blog listed Windows 365 with Developer configuration as available in public preview.
+---CHUNK---
+chunk_id: C0196
+company: Microsoft
+type: qa
+source_id: MSF-WEB-004
+date: 2026-06-02
+title: Build 2026: Furthering Windows as the trusted platform for development
+publisher: Windows Developer Blog
+url: https://blogs.windows.com/windowsdeveloper/2026/06/02/build-2026-furthering-windows-as-the-trusted-platform-for-development/
+text:
+Question: What happened in this source?
+Answer: Microsoft said Build 2026 highlighted Windows as a platform that supports development across local, cloud, platforms, languages, and frameworks. The blog said Microsoft is investing in enabling AI workloads to run securely on-device, in the cloud, or across both. The blog listed Coreutils for Windows as generally available. The blog listed WSL containers as coming soon to public preview. The blog listed Windows Development Skills as generally available. The blog listed Intelligent Terminal as available in experimental preview. The blog listed Windows Developer Configurations powered by WinGet as generally available. The blog listed Windows 365 with Developer configuration as available in public preview.
+---CHUNK---
+chunk_id: C0197
+company: Microsoft
+type: qa
+source_id: MSF-WEB-004
+date: 2026-06-02
+title: Build 2026: Furthering Windows as the trusted platform for development
+publisher: Windows Developer Blog
+url: https://blogs.windows.com/windowsdeveloper/2026/06/02/build-2026-furthering-windows-as-the-trusted-platform-for-development/
+text:
+Question: Why is this useful for RAG?
+Answer: This source gives dated, source-backed facts about Microsoft. It should be retrieved when a user asks about Microsoft strategy, AI activity, partnerships, investments, recognition, products, or 2026 updates.
+---CHUNK---
+chunk_id: C0198
+company: Microsoft
+type: qa
+source_id: MSF-WEB-004
+date: 2026-06-02
+title: Build 2026: Furthering Windows as the trusted platform for development
+publisher: Windows Developer Blog
+url: https://blogs.windows.com/windowsdeveloper/2026/06/02/build-2026-furthering-windows-as-the-trusted-platform-for-development/
+text:
+Question: What should the chatbot cite?
+Answer: Use source_id MSF-WEB-004, title Build 2026: Furthering Windows as the trusted platform for development, date 2026-06-02, publisher Windows Developer Blog, and URL https://blogs.windows.com/windowsdeveloper/2026/06/02/build-2026-furthering-windows-as-the-trusted-platform-for-development/.
+---CHUNK---
+chunk_id: C0199
+company: Microsoft
+type: company_profile
+source_id: MULTI
+date: 2026-07-10 11:41 IST
+title: Microsoft combined RAG profile
+publisher: Generated from listed sources
+url: see source records
+text:
+Microsoft combined profile: Microsoft source material in this dataset focuses on Microsoft Frontier Company, enterprise AI engineering, customer intelligence protection, agentic AI, Microsoft Build 2026, Windows development, and Microsoft AI models. Key source-backed facts: The Official Microsoft Blog featured The latest in our company transformation on July 6, 2026. The blog featured Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence on July 2, 2026. The blog featured Inside Microsoft two-decade push to cut water intensity while scaling for growth on June 24, 2026. The blog featured Rethinking cloud operations with agentic observability on June 23, 2026. The blog featured Powering the next wave of AI: Expanding capacity with our new datacenter in Pecos on June 22, 2026. The blog featured Achieving success with AI on June 16, 2026. The blog listed Microsoft Build 2026: Be yourself at work on June 2, 2026. Microsoft introduced Microsoft Frontier Company as a new operating business focused on Frontier Transformation through AI for customers around the world. Microsoft said the organization provides deep industry knowledge, change management and continuous improvement experience, and enterprise-grade AI engineering expertise. Microsoft described Microsoft Frontier Company as going beyond forward deployed engineering and as an outcome-driven engineering organization. Microsoft announced a 2.5 billion dollar investment in Microsoft Frontier Company. Microsoft said it would embed 6,000 industry and engineering experts at customers to co-design, co-innovate, deploy, and continuously improve AI systems at scale. Microsoft emphasized Intelligence plus Trust as two important components of AI solutions. Microsoft said companies need an intelligence platform so proprietary data, expertise, workflows, and decision-making processes compound over time from within. Microsoft said companies need a trusted platform to observe, govern, manage, and secure AI solutions across every layer of the technology stack. Microsoft said customer data, IP, and competitive advantage are protected and not used to train models in ways that commoditize what differentiates them. Microsoft said customers should not be locked into a single model and mentioned flexibility across OpenAI, Anthropic, Microsoft AI, open source, and specialized industry models. Microsoft said Rodrigo Kede Lima would be President of Microsoft Frontier Comp
+---CHUNK---
+chunk_id: C0200
+company: Commvault
+type: fact
+source_id: CVLT-WEB-001
+date: 2026-07-09
+title: News Releases - Commvault
+publisher: Commvault
+url: https://ir.commvault.com/news-and-events/news-releases
+text:
+Commvault listed that it was named among TIME America Best Companies 2026 on July 9, 2026.
+---CHUNK---
+chunk_id: C0201
+company: Commvault
+type: fact
+source_id: CVLT-WEB-001
+date: 2026-07-09
+title: News Releases - Commvault
+publisher: Commvault
+url: https://ir.commvault.com/news-and-events/news-releases
+text:
+Commvault listed a July 7, 2026 release for First Quarter Fiscal Year 2027 earnings release date.
+---CHUNK---
+chunk_id: C0202
+company: Commvault
+type: fact
+source_id: CVLT-WEB-001
+date: 2026-07-09
+title: News Releases - Commvault
+publisher: Commvault
+url: https://ir.commvault.com/news-and-events/news-releases
+text:
+Commvault listed Minutes to Recovery, a hands-on simulation for Frontier AI driven attacks, defense, and recovery readiness, on July 7, 2026.
+---CHUNK---
+chunk_id: C0203
+company: Commvault
+type: fact
+source_id: CVLT-WEB-001
+date: 2026-07-09
+title: News Releases - Commvault
+publisher: Commvault
+url: https://ir.commvault.com/news-and-events/news-releases
+text:
+Commvault listed being ranked number one in five of six use cases in the 2026 Gartner Critical Capabilities for Backup and Data Protection Platforms report on July 6, 2026.
+---CHUNK---
+chunk_id: C0204
+company: Commvault
+type: fact
+source_id: CVLT-WEB-001
+date: 2026-07-09
+title: News Releases - Commvault
+publisher: Commvault
+url: https://ir.commvault.com/news-and-events/news-releases
+text:
+Commvault listed the appointment of Brian Lanigan as Chief Partner Officer on July 6, 2026.
+---CHUNK---
+chunk_id: C0205
+company: Commvault
+type: fact
+source_id: CVLT-WEB-001
+date: 2026-07-09
+title: News Releases - Commvault
+publisher: Commvault
+url: https://ir.commvault.com/news-and-events/news-releases
+text:
+Commvault listed being named a Leader for the 15th consecutive time in the Gartner Magic Quadrant for Backup and Data Protection Platforms on June 30, 2026.
+---CHUNK---
+chunk_id: C0206
+company: Commvault
+type: fact
+source_id: CVLT-WEB-001
+date: 2026-07-09
+title: News Releases - Commvault
+publisher: Commvault
+url: https://ir.commvault.com/news-and-events/news-releases
+text:
+Commvault listed a multi-year strategic partnership with Microsoft on June 24, 2026.
+---CHUNK---
+chunk_id: C0207
+company: Commvault
+type: normal_summary
+source_id: CVLT-WEB-001
+date: 2026-07-09
+title: News Releases - Commvault
+publisher: Commvault
+url: https://ir.commvault.com/news-and-events/news-releases
+text:
+Commvault source summary: Commvault listed that it was named among TIME America Best Companies 2026 on July 9, 2026. Commvault listed a July 7, 2026 release for First Quarter Fiscal Year 2027 earnings release date. Commvault listed Minutes to Recovery, a hands-on simulation for Frontier AI driven attacks, defense, and recovery readiness, on July 7, 2026. Commvault listed being ranked number one in five of six use cases in the 2026 Gartner Critical Capabilities for Backup and Data Protection Platforms report on July 6, 2026. Commvault listed the appointment of Brian Lanigan as Chief Partner Officer on July 6, 2026. Commvault listed being named a Leader for the 15th consecutive time in the Gartner Magic Quadrant for Backup and Data Protection Platforms on June 30, 2026. Commvault listed a multi-year strategic partnership with Microsoft on June 24, 2026.
+---CHUNK---
+chunk_id: C0208
+company: Commvault
+type: qa
+source_id: CVLT-WEB-001
+date: 2026-07-09
+title: News Releases - Commvault
+publisher: Commvault
+url: https://ir.commvault.com/news-and-events/news-releases
+text:
+Question: What happened in this source?
+Answer: Commvault listed that it was named among TIME America Best Companies 2026 on July 9, 2026. Commvault listed a July 7, 2026 release for First Quarter Fiscal Year 2027 earnings release date. Commvault listed Minutes to Recovery, a hands-on simulation for Frontier AI driven attacks, defense, and recovery readiness, on July 7, 2026. Commvault listed being ranked number one in five of six use cases in the 2026 Gartner Critical Capabilities for Backup and Data Protection Platforms report on July 6, 2026. Commvault listed the appointment of Brian Lanigan as Chief Partner Officer on July 6, 2026. Commvault listed being named a Leader for the 15th consecutive time in the Gartner Magic Quadrant for Backup and Data Protection Platforms on June 30, 2026. Commvault listed a multi-year strategic partnership with Microsoft on June 24, 2026.
+---CHUNK---
+chunk_id: C0209
+company: Commvault
+type: qa
+source_id: CVLT-WEB-001
+date: 2026-07-09
+title: News Releases - Commvault
+publisher: Commvault
+url: https://ir.commvault.com/news-and-events/news-releases
+text:
+Question: Why is this useful for RAG?
+Answer: This source gives dated, source-backed facts about Commvault. It should be retrieved when a user asks about Commvault strategy, AI activity, partnerships, investments, recognition, products, or 2026 updates.
+---CHUNK---
+chunk_id: C0210
+company: Commvault
+type: qa
+source_id: CVLT-WEB-001
+date: 2026-07-09
+title: News Releases - Commvault
+publisher: Commvault
+url: https://ir.commvault.com/news-and-events/news-releases
+text:
+Question: What should the chatbot cite?
+Answer: Use source_id CVLT-WEB-001, title News Releases - Commvault, date 2026-07-09, publisher Commvault, and URL https://ir.commvault.com/news-and-events/news-releases.
+---CHUNK---
+chunk_id: C0211
+company: Commvault
+type: fact
+source_id: CVLT-WEB-002
+date: 2026-07-06
+title: Commvault Ranked #1 in Five of Six Use Cases in 2026 Gartner Critical Capabilities
+publisher: Commvault
+url: https://ir.commvault.com/news-releases/news-release-details/commvault-ranked-1-five-six-use-cases-2026-gartnerr-critical
+text:
+Commvault announced it was ranked number one in five of six use cases in the 2026 Gartner Critical Capabilities for Backup and Data Protection Platforms report.
+---CHUNK---
+chunk_id: C0212
+company: Commvault
+type: fact
+source_id: CVLT-WEB-002
+date: 2026-07-06
+title: Commvault Ranked #1 in Five of Six Use Cases in 2026 Gartner Critical Capabilities
+publisher: Commvault
+url: https://ir.commvault.com/news-releases/news-release-details/commvault-ranked-1-five-six-use-cases-2026-gartnerr-critical
+text:
+Commvault said the use cases included Hybrid, Multicloud, SaaS, Data Services, Disaster Recovery, and Ransomware Protection Detection and Recovery.
+---CHUNK---
+chunk_id: C0213
+company: Commvault
+type: fact
+source_id: CVLT-WEB-002
+date: 2026-07-06
+title: Commvault Ranked #1 in Five of Six Use Cases in 2026 Gartner Critical Capabilities
+publisher: Commvault
+url: https://ir.commvault.com/news-releases/news-release-details/commvault-ranked-1-five-six-use-cases-2026-gartnerr-critical
+text:
+Commvault said it scored 4.47 for Hybrid, 4.38 for Multicloud, 4.28 for SaaS, 4.34 for Data Services, 4.44 for Disaster Recovery, and 4.52 for Ransomware Protection Detection and Recovery.
+---CHUNK---
+chunk_id: C0214
+company: Commvault
+type: fact
+source_id: CVLT-WEB-002
+date: 2026-07-06
+title: Commvault Ranked #1 in Five of Six Use Cases in 2026 Gartner Critical Capabilities
+publisher: Commvault
+url: https://ir.commvault.com/news-releases/news-release-details/commvault-ranked-1-five-six-use-cases-2026-gartnerr-critical
+text:
+Commvault said the 2026 Critical Capabilities report followed its recognition as a Leader in the 2026 Gartner Magic Quadrant for Backup and Data Protection Platforms.
+---CHUNK---
+chunk_id: C0215
+company: Commvault
+type: fact
+source_id: CVLT-WEB-002
+date: 2026-07-06
+title: Commvault Ranked #1 in Five of Six Use Cases in 2026 Gartner Critical Capabilities
+publisher: Commvault
+url: https://ir.commvault.com/news-releases/news-release-details/commvault-ranked-1-five-six-use-cases-2026-gartnerr-critical
+text:
+Commvault said this marked the 15th consecutive time it was positioned as a Leader.
+---CHUNK---
+chunk_id: C0216
+company: Commvault
+type: fact
+source_id: CVLT-WEB-002
+date: 2026-07-06
+title: Commvault Ranked #1 in Five of Six Use Cases in 2026 Gartner Critical Capabilities
+publisher: Commvault
+url: https://ir.commvault.com/news-releases/news-release-details/commvault-ranked-1-five-six-use-cases-2026-gartnerr-critical
+text:
+Commvault said Commvault Cloud Unity provides centralized management across hybrid, multicloud, and SaaS environments.
+---CHUNK---
+chunk_id: C0217
+company: Commvault
+type: fact
+source_id: CVLT-WEB-002
+date: 2026-07-06
+title: Commvault Ranked #1 in Five of Six Use Cases in 2026 Gartner Critical Capabilities
+publisher: Commvault
+url: https://ir.commvault.com/news-releases/news-release-details/commvault-ranked-1-five-six-use-cases-2026-gartnerr-critical
+text:
+Commvault said the platform helps identify clean recovery points, validate recoverability in isolated environments, and recover critical data, identities, and applications.
+---CHUNK---
+chunk_id: C0218
+company: Commvault
+type: normal_summary
+source_id: CVLT-WEB-002
+date: 2026-07-06
+title: Commvault Ranked #1 in Five of Six Use Cases in 2026 Gartner Critical Capabilities
+publisher: Commvault
+url: https://ir.commvault.com/news-releases/news-release-details/commvault-ranked-1-five-six-use-cases-2026-gartnerr-critical
+text:
+Commvault source summary: Commvault announced it was ranked number one in five of six use cases in the 2026 Gartner Critical Capabilities for Backup and Data Protection Platforms report. Commvault said the use cases included Hybrid, Multicloud, SaaS, Data Services, Disaster Recovery, and Ransomware Protection Detection and Recovery. Commvault said it scored 4.47 for Hybrid, 4.38 for Multicloud, 4.28 for SaaS, 4.34 for Data Services, 4.44 for Disaster Recovery, and 4.52 for Ransomware Protection Detection and Recovery. Commvault said the 2026 Critical Capabilities report followed its recognition as a Leader in the 2026 Gartner Magic Quadrant for Backup and Data Protection Platforms. Commvault said this marked the 15th consecutive time it was positioned as a Leader. Commvault said Commvault Cloud Unity provides centralized management across hybrid, multicloud, and SaaS environments. Commvault said the platform helps identify clean recovery points, validate recoverability in isolated environments, and recover critical data, identities, and applications.
+---CHUNK---
+chunk_id: C0219
+company: Commvault
+type: qa
+source_id: CVLT-WEB-002
+date: 2026-07-06
+title: Commvault Ranked #1 in Five of Six Use Cases in 2026 Gartner Critical Capabilities
+publisher: Commvault
+url: https://ir.commvault.com/news-releases/news-release-details/commvault-ranked-1-five-six-use-cases-2026-gartnerr-critical
+text:
+Question: What happened in this source?
+Answer: Commvault announced it was ranked number one in five of six use cases in the 2026 Gartner Critical Capabilities for Backup and Data Protection Platforms report. Commvault said the use cases included Hybrid, Multicloud, SaaS, Data Services, Disaster Recovery, and Ransomware Protection Detection and Recovery. Commvault said it scored 4.47 for Hybrid, 4.38 for Multicloud, 4.28 for SaaS, 4.34 for Data Services, 4.44 for Disaster Recovery, and 4.52 for Ransomware Protection Detection and Recovery. Commvault said the 2026 Critical Capabilities report followed its recognition as a Leader in the 2026 Gartner Magic Quadrant for Backup and Data Protection Platforms. Commvault said this marked the 15th consecutive time it was positioned as a Leader. Commvault said Commvault Cloud Unity provides centralized management across hybrid, multicloud, and SaaS environments. Commvault said the platform helps identify clean recovery points, validate recoverability in isolated environments, and recover critical data, identities, and applications.
+---CHUNK---
+chunk_id: C0220
+company: Commvault
+type: qa
+source_id: CVLT-WEB-002
+date: 2026-07-06
+title: Commvault Ranked #1 in Five of Six Use Cases in 2026 Gartner Critical Capabilities
+publisher: Commvault
+url: https://ir.commvault.com/news-releases/news-release-details/commvault-ranked-1-five-six-use-cases-2026-gartnerr-critical
+text:
+Question: Why is this useful for RAG?
+Answer: This source gives dated, source-backed facts about Commvault. It should be retrieved when a user asks about Commvault strategy, AI activity, partnerships, investments, recognition, products, or 2026 updates.
+---CHUNK---
+chunk_id: C0221
+company: Commvault
+type: qa
+source_id: CVLT-WEB-002
+date: 2026-07-06
+title: Commvault Ranked #1 in Five of Six Use Cases in 2026 Gartner Critical Capabilities
+publisher: Commvault
+url: https://ir.commvault.com/news-releases/news-release-details/commvault-ranked-1-five-six-use-cases-2026-gartnerr-critical
+text:
+Question: What should the chatbot cite?
+Answer: Use source_id CVLT-WEB-002, title Commvault Ranked #1 in Five of Six Use Cases in 2026 Gartner Critical Capabilities, date 2026-07-06, publisher Commvault, and URL https://ir.commvault.com/news-releases/news-release-details/commvault-ranked-1-five-six-use-cases-2026-gartnerr-critical.
+---CHUNK---
+chunk_id: C0222
+company: Commvault
+type: fact
+source_id: CVLT-WEB-003
+date: 2026-03-17
+title: Commvault Hits the Ring to Take on Cyberattacks, Identity Theft, and AI-driven Threats
+publisher: Commvault
+url: https://www.commvault.com/news/resops-faceoff-at-rsac-2026-conference
+text:
+Commvault announced its presence at RSAC 2026 Conference.
+---CHUNK---
+chunk_id: C0223
+company: Commvault
+type: fact
+source_id: CVLT-WEB-003
+date: 2026-03-17
+title: Commvault Hits the Ring to Take on Cyberattacks, Identity Theft, and AI-driven Threats
+publisher: Commvault
+url: https://www.commvault.com/news/resops-faceoff-at-rsac-2026-conference
+text:
+Commvault described a ResOps Rumble where resilience and operations team up to battle AI-powered anomalies, credential compromise, and configuration chaos.
+---CHUNK---
+chunk_id: C0224
+company: Commvault
+type: fact
+source_id: CVLT-WEB-003
+date: 2026-03-17
+title: Commvault Hits the Ring to Take on Cyberattacks, Identity Theft, and AI-driven Threats
+publisher: Commvault
+url: https://www.commvault.com/news/resops-faceoff-at-rsac-2026-conference
+text:
+Commvault said attendees would discover how organizations can wrestle above their weight against bad actors and recover from cyberattacks cleanly and completely with speed and confidence.
+---CHUNK---
+chunk_id: C0225
+company: Commvault
+type: fact
+source_id: CVLT-WEB-003
+date: 2026-03-17
+title: Commvault Hits the Ring to Take on Cyberattacks, Identity Theft, and AI-driven Threats
+publisher: Commvault
+url: https://www.commvault.com/news/resops-faceoff-at-rsac-2026-conference
+text:
+Commvault listed a speaking session called When Attackers Swing at You: Recover Fast and Do Not Tap Out with ResOps.
+---CHUNK---
+chunk_id: C0226
+company: Commvault
+type: normal_summary
+source_id: CVLT-WEB-003
+date: 2026-03-17
+title: Commvault Hits the Ring to Take on Cyberattacks, Identity Theft, and AI-driven Threats
+publisher: Commvault
+url: https://www.commvault.com/news/resops-faceoff-at-rsac-2026-conference
+text:
+Commvault source summary: Commvault announced its presence at RSAC 2026 Conference. Commvault described a ResOps Rumble where resilience and operations team up to battle AI-powered anomalies, credential compromise, and configuration chaos. Commvault said attendees would discover how organizations can wrestle above their weight against bad actors and recover from cyberattacks cleanly and completely with speed and confidence. Commvault listed a speaking session called When Attackers Swing at You: Recover Fast and Do Not Tap Out with ResOps.
+---CHUNK---
+chunk_id: C0227
+company: Commvault
+type: qa
+source_id: CVLT-WEB-003
+date: 2026-03-17
+title: Commvault Hits the Ring to Take on Cyberattacks, Identity Theft, and AI-driven Threats
+publisher: Commvault
+url: https://www.commvault.com/news/resops-faceoff-at-rsac-2026-conference
+text:
+Question: What happened in this source?
+Answer: Commvault announced its presence at RSAC 2026 Conference. Commvault described a ResOps Rumble where resilience and operations team up to battle AI-powered anomalies, credential compromise, and configuration chaos. Commvault said attendees would discover how organizations can wrestle above their weight against bad actors and recover from cyberattacks cleanly and completely with speed and confidence. Commvault listed a speaking session called When Attackers Swing at You: Recover Fast and Do Not Tap Out with ResOps.
+---CHUNK---
+chunk_id: C0228
+company: Commvault
+type: qa
+source_id: CVLT-WEB-003
+date: 2026-03-17
+title: Commvault Hits the Ring to Take on Cyberattacks, Identity Theft, and AI-driven Threats
+publisher: Commvault
+url: https://www.commvault.com/news/resops-faceoff-at-rsac-2026-conference
+text:
+Question: Why is this useful for RAG?
+Answer: This source gives dated, source-backed facts about Commvault. It should be retrieved when a user asks about Commvault strategy, AI activity, partnerships, investments, recognition, products, or 2026 updates.
+---CHUNK---
+chunk_id: C0229
+company: Commvault
+type: qa
+source_id: CVLT-WEB-003
+date: 2026-03-17
+title: Commvault Hits the Ring to Take on Cyberattacks, Identity Theft, and AI-driven Threats
+publisher: Commvault
+url: https://www.commvault.com/news/resops-faceoff-at-rsac-2026-conference
+text:
+Question: What should the chatbot cite?
+Answer: Use source_id CVLT-WEB-003, title Commvault Hits the Ring to Take on Cyberattacks, Identity Theft, and AI-driven Threats, date 2026-03-17, publisher Commvault, and URL https://www.commvault.com/news/resops-faceoff-at-rsac-2026-conference.
+---CHUNK---
+chunk_id: C0230
+company: Commvault
+type: fact
+source_id: CVLT-WEB-004
+date: 2026-07-07
+title: Commvault launches Minutes to Recovery AI-powered simulation
+publisher: Help Net Security
+url: https://www.helpnetsecurity.com/2026/07/07/commvault-measures-cyber-recovery-readiness-with-ai-attack-simulations/
+text:
+Help Net Security reported Commvault announced Minutes to Recovery, a scenario-driven cyber resilience simulation.
+---CHUNK---
+chunk_id: C0231
+company: Commvault
+type: fact
+source_id: CVLT-WEB-004
+date: 2026-07-07
+title: Commvault launches Minutes to Recovery AI-powered simulation
+publisher: Help Net Security
+url: https://www.helpnetsecurity.com/2026/07/07/commvault-measures-cyber-recovery-readiness-with-ai-attack-simulations/
+text:
+The report said participants act as a hacker using frontier AI tools and then defend against and recover from an incident.
+---CHUNK---
+chunk_id: C0232
+company: Commvault
+type: fact
+source_id: CVLT-WEB-004
+date: 2026-07-07
+title: Commvault launches Minutes to Recovery AI-powered simulation
+publisher: Help Net Security
+url: https://www.helpnetsecurity.com/2026/07/07/commvault-measures-cyber-recovery-readiness-with-ai-attack-simulations/
+text:
+The report said the simulation lets security and IT teams stress test readiness for frontier AI threats under real-world conditions.
+---CHUNK---
+chunk_id: C0233
+company: Commvault
+type: fact
+source_id: CVLT-WEB-004
+date: 2026-07-07
+title: Commvault launches Minutes to Recovery AI-powered simulation
+publisher: Help Net Security
+url: https://www.helpnetsecurity.com/2026/07/07/commvault-measures-cyber-recovery-readiness-with-ai-attack-simulations/
+text:
+The report said participants move through attacker, defender, and recovery expert roles.
+---CHUNK---
+chunk_id: C0234
+company: Commvault
+type: fact
+source_id: CVLT-WEB-004
+date: 2026-07-07
+title: Commvault launches Minutes to Recovery AI-powered simulation
+publisher: Help Net Security
+url: https://www.helpnetsecurity.com/2026/07/07/commvault-measures-cyber-recovery-readiness-with-ai-attack-simulations/
+text:
+The report said the resulting Mean Time to Clean Recovery benchmark provides a practical measure of recovery readiness.
+---CHUNK---
+chunk_id: C0235
+company: Commvault
+type: normal_summary
+source_id: CVLT-WEB-004
+date: 2026-07-07
+title: Commvault launches Minutes to Recovery AI-powered simulation
+publisher: Help Net Security
+url: https://www.helpnetsecurity.com/2026/07/07/commvault-measures-cyber-recovery-readiness-with-ai-attack-simulations/
+text:
+Commvault source summary: Help Net Security reported Commvault announced Minutes to Recovery, a scenario-driven cyber resilience simulation. The report said participants act as a hacker using frontier AI tools and then defend against and recover from an incident. The report said the simulation lets security and IT teams stress test readiness for frontier AI threats under real-world conditions. The report said participants move through attacker, defender, and recovery expert roles. The report said the resulting Mean Time to Clean Recovery benchmark provides a practical measure of recovery readiness.
+---CHUNK---
+chunk_id: C0236
+company: Commvault
+type: qa
+source_id: CVLT-WEB-004
+date: 2026-07-07
+title: Commvault launches Minutes to Recovery AI-powered simulation
+publisher: Help Net Security
+url: https://www.helpnetsecurity.com/2026/07/07/commvault-measures-cyber-recovery-readiness-with-ai-attack-simulations/
+text:
+Question: What happened in this source?
+Answer: Help Net Security reported Commvault announced Minutes to Recovery, a scenario-driven cyber resilience simulation. The report said participants act as a hacker using frontier AI tools and then defend against and recover from an incident. The report said the simulation lets security and IT teams stress test readiness for frontier AI threats under real-world conditions. The report said participants move through attacker, defender, and recovery expert roles. The report said the resulting Mean Time to Clean Recovery benchmark provides a practical measure of recovery readiness.
+---CHUNK---
+chunk_id: C0237
+company: Commvault
+type: qa
+source_id: CVLT-WEB-004
+date: 2026-07-07
+title: Commvault launches Minutes to Recovery AI-powered simulation
+publisher: Help Net Security
+url: https://www.helpnetsecurity.com/2026/07/07/commvault-measures-cyber-recovery-readiness-with-ai-attack-simulations/
+text:
+Question: Why is this useful for RAG?
+Answer: This source gives dated, source-backed facts about Commvault. It should be retrieved when a user asks about Commvault strategy, AI activity, partnerships, investments, recognition, products, or 2026 updates.
+---CHUNK---
+chunk_id: C0238
+company: Commvault
+type: qa
+source_id: CVLT-WEB-004
+date: 2026-07-07
+title: Commvault launches Minutes to Recovery AI-powered simulation
+publisher: Help Net Security
+url: https://www.helpnetsecurity.com/2026/07/07/commvault-measures-cyber-recovery-readiness-with-ai-attack-simulations/
+text:
+Question: What should the chatbot cite?
+Answer: Use source_id CVLT-WEB-004, title Commvault launches Minutes to Recovery AI-powered simulation, date 2026-07-07, publisher Help Net Security, and URL https://www.helpnetsecurity.com/2026/07/07/commvault-measures-cyber-recovery-readiness-with-ai-attack-simulations/.
+---CHUNK---
+chunk_id: C0239
+company: Commvault
+type: company_profile
+source_id: MULTI
+date: 2026-07-10 11:41 IST
+title: Commvault combined RAG profile
+publisher: Generated from listed sources
+url: see source records
+text:
+Commvault combined profile: Commvault source material in this dataset focuses on unified resilience, cyber recovery, backup and data protection, identity resilience, AI-enabled readiness, ResOps, and Gartner recognition. Key source-backed facts: Commvault listed that it was named among TIME America Best Companies 2026 on July 9, 2026. Commvault listed a July 7, 2026 release for First Quarter Fiscal Year 2027 earnings release date. Commvault listed Minutes to Recovery, a hands-on simulation for Frontier AI driven attacks, defense, and recovery readiness, on July 7, 2026. Commvault listed being ranked number one in five of six use cases in the 2026 Gartner Critical Capabilities for Backup and Data Protection Platforms report on July 6, 2026. Commvault listed the appointment of Brian Lanigan as Chief Partner Officer on July 6, 2026. Commvault listed being named a Leader for the 15th consecutive time in the Gartner Magic Quadrant for Backup and Data Protection Platforms on June 30, 2026. Commvault listed a multi-year strategic partnership with Microsoft on June 24, 2026. Commvault announced it was ranked number one in five of six use cases in the 2026 Gartner Critical Capabilities for Backup and Data Protection Platforms report. Commvault said the use cases included Hybrid, Multicloud, SaaS, Data Services, Disaster Recovery, and Ransomware Protection Detection and Recovery. Commvault said it scored 4.47 for Hybrid, 4.38 for Multicloud, 4.28 for SaaS, 4.34 for Data Services, 4.44 for Disaster Recovery, and 4.52 for Ransomware Protection Detection and Recovery. Commvault said the 2026 Critical Capabilities report followed its recognition as a Leader in the 2026 Gartner Magic Quadrant for Backup and Data Protection Platforms. Commvault said this marked the 15th consecutive time it was positioned as a Leader. Commvault said Commvault Cloud Unity provides centralized management across hybrid, multicloud, and SaaS environments. Commvault said the platform helps identify clean recovery points, validate recoverability in isolated environments, and recover critical data, identities, and applications. Commvault announced its presence at RSAC 2026 Conference. Commvault described a ResOps Rumble where resilience and operations team up to battle AI-powered anomalies, credential compromise, and configuration chaos. Commvault said attendees would discover how organizations can wrestle above their weight against bad actors
