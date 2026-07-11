@@ -1,4 +1,5 @@
-
+from langchain_experimental.text_splitter import SemanticChunker
+from langchain_huggingface import HuggingFaceEmbeddings
 
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
@@ -13,3 +14,17 @@ class Chunker:
         print("Chunking created")
         return chunks
         
+    
+    def semantic(self,documents):
+            embeddings = HuggingFaceEmbeddings(
+                model_name="sentence-transformers/all-MiniLM-L6-v2"
+            )
+            text_splitter = SemanticChunker(
+                embeddings=embeddings,
+            breakpoint_threshold_type ="percentile"
+            )
+
+            chunks = text_splitter.split_documents(documents)
+            print("Semantic Chunks Created")
+            return chunks
+

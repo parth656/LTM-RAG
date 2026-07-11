@@ -10,3 +10,5 @@ python-dotenv
 pypdf
 docx2txt
 google-genai
+langchain-experimental
+sentence-transformers
