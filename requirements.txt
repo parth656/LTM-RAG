@@ -4,7 +4,6 @@ langchain-text-splitters
 langchain-huggingface
 langchain-chroma
 chromadb
-sentence-transformers
 huggingface-hub
 python-dotenv
 pypdf
